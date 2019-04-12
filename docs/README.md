@@ -1,0 +1,66 @@
+---
+title: Getting Started
+---
+## Bloomberg Law Overview
+
+_Bloomberg Law_ integrates Bloomberg’s renowned news, company and financial data with exceptional primary and secondary legal research and business intelligence tools, delivering an advantage to legal professionals who handle the most complex legal matters. Presented in a sophisticated yet easy-to-use interface, _Bloomberg Law_ gives you unlimited desktop and mobile access to all of these materials—as often as you want and whenever you want.
+
+Use _Bloomberg Law_’s innovative Search Bar to navigate the site, and find the tools and resources you need quickly. You can also take advantage of _Bloomberg Law_’s intuitive **Browse All Content** menu for easy access to your favorite resources including Practice Centers, Legal Content, Transactional Content, News, and Business Intelligence & Analytics. 
+
+For Help on using specific content and features on _Bloomberg Law_, consult this Help Center using the navigation pane at the left.
+
+## Training
+
+_Bloomberg Law_ offers a variety of options to suit your training needs—from online and telephone support to individual and group in-person training and Continuing Legal Education (CLE) training courses.
+
+To schedule individual or group training, or for more information, contact your account representative or email: [blawhelp@bna.com
+](mailto:blawhelp@bna.com)
+
+## Set Your Homepage
+
+Customize your _Bloomberg Law_ experience by changing the default homepage to the _Bloomberg Law_ content page that best meets your needs.
+
+1. Click the **Set As Homepage** link at the center of any page on which it appears. This page will load at log in and when clicking the **My Home** link in the Browse All Content menu.
+2. The **Set As Homepage** option is available for Practice Centers, BNA Law Report pages, and many other pages.
+
+## Change Your Password
+
+Change your password either before or after login. 
+
+**Change your Password Before Login**
+
+To change your password before logging in, follow the Forgot Your Password link on the www.bloomberglaw.com  sign in page. This link will prompt you to initiate a password reset.
+
+**Change your Password After Login**
+
+Select **Settings** from the username drop-down at the top of the _Bloomberg Law_ menu. 
+
+![Change Password](/images/password_settings.jpg)
+
+Click the **Change Password** link on your Account Settings page.
+
+![Change Password](/images/change-password.jpg)
+
+Once you click the **Change Password** link, you are prompted to enter your username.
+  You will need to enter the correct Captcha text to verify you are not a robot to continue with the password change process.
+  You will receive an email with a link to a password change form. The form will be available for the next 30 mins.
+  If you encounter any problem or have questions about changing your password, contact our [24/7 Help Desk](https://www.bna.com/contact-us-blaw/) . 
+
+## Contact Us
+
+The _Bloomberg Law_ Help Desk is staffed with knowledgeable and experienced legal professionals, including attorneys and law librarians, to provide quick and convenient 24/7 Client Support 
+
+**PHONE**
+
+* United States or Canada: 888.560.2529
+* Outside the U.S. or Canada: 212.318.2800
+
+**EMAIL:** [blawhelp@bna.com
+](mailto:blawhelp@bna.com)
+
+**LIVE CHAT**
+
+* Go to "Need Help?" on _Bloomberg Law_ Home Page
+* Select "live chat via the help page"
+
+![Chat](/images/chat-new.png)

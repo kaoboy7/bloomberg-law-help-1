@@ -1,0 +1,27 @@
+backend:
+  name: github
+  repo: klaussteinnagel/bloomberg-law-help
+  branch: master
+
+media_folder: ".vuepress/public/images"
+public_folder: "images"
+
+
+collections:
+  - name: "doc"
+    label: "Bloomberg Law Help"
+    folder: "docs"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "archive"
+    label: "What's New Archive"
+    folder: "archive"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}

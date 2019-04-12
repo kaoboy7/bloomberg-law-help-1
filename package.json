@@ -1,0 +1,20 @@
+{
+  "name": "vuepress",
+  "version": "1.0.0",
+  "repository": "https://github.com/klaussteinnagel/bloomberg-law-help",
+  "description": "Starter template for a VuePress site",
+  "author": "Klaus Steinnagel",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "devDependencies": {
+    "vue-masonry-css": "^1.0.3",
+    "vuepress": "^0.14.9"
+  },
+  "dependencies": {
+    "eslint": "^5.14.1",
+    "npm": "^6.8.0"
+  }
+}
