@@ -1,20 +1,25 @@
 {
-  "name": "vuepress",
+  "name": "blooomberglawhelp",
   "version": "1.0.0",
   "repository": "https://github.com/klaussteinnagel/bloomberg-law-help",
-  "description": "Starter template for a VuePress site",
+  "description": "Bloomberg Law Help Site",
   "author": "Klaus Steinnagel",
   "license": "MIT",
   "scripts": {
     "dev": "vuepress dev",
-    "build": "vuepress build"
+    "build": "vuepress build && npm run build-client-js",
+    "build-client-js": "browserify cms_client.js --standalone editor_components > .vuepress/dist/admin/editor_components.js"
   },
   "devDependencies": {
     "vue-masonry-css": "^1.0.3",
     "vuepress": "^0.14.9"
   },
   "dependencies": {
+    "bnacomponents": "^1.0.1",
+    "editorcomponents": "^1.0.1",
+    "browserify": "^16.2.3",
     "eslint": "^5.14.1",
-    "npm": "^6.8.0"
+    "npm": "^6.8.0",
+    "vuepress-theme-bna": "^1.0.7"
   }
 }

@@ -7,6 +7,12 @@
     <link rel="stylesheet" href="https://unpkg.com/netlify-cms/dist/cms.css" />
   </head>
   <body>
+    <script src="editor_components.js"></script>
     <script src="https://unpkg.com/netlify-cms/dist/netlify-cms.js"></script>
+    <script>
+      CMS.registerEditorComponent(editor_components.YoutubeSettings());
+      CMS.registerEditorComponent(editor_components.BrightcoveSettings());
+      CMS.registerEditorComponent(editor_components.PdfSettings());
+    </script>
   </body>
 </html>

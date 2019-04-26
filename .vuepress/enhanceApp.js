@@ -1,38 +1,31 @@
+import {Youtube, Brightcove, IFrameWrapper} from 'bnacomponents'
+
 export default ({
-    Vue, // the version of Vue being used in the VuePress app
-    options, // the options for the root Vue instance
-    router, // the router instance for the app
-    siteData // site metadata
+    Vue, 
+    siteData
 }) => {
-    // add articles to folders marked for auto-insert
-    siteData.themeConfig.sidebar = insertDynamicSidebar(siteData.themeConfig.sidebar, siteData.pages);
+    siteData.themeConfig.sidebar = insertDynamicSidebar(siteData.themeConfig.sidebar, siteData.pages),
+    Vue.component('Youtube', Youtube),
+    Vue.component('IFrameWrapper', IFrameWrapper),
+    Vue.component('Brightcove', Brightcove)
 }
 
 function insertDynamicSidebar(sidebar, pages) {
     return sidebar.map((item) => {
         if (typeof item === 'string') {
-            // looking for path ending with /*
             if (item.match(/\/\*$/)) {
-                // remove extra / 
                 let ParentPath = item.substring(0, item.length - 1);
                 item = {
                     title: '',
                     children: [ParentPath]
                 };
-                // item.children[0] = ParentPath;
                 pages.forEach(page => {
                     if (page.path.startsWith(ParentPath))
-                        if (page.path === ParentPath)
-                        {
-                            if(ParentPath === '/docs/')         { item.title = 'Bloomberg Law Help';  }
-                            else if(ParentPath === '/archive/') { item.title = 'What\'s New Archive';  }
-                            else                                { item.title = ParentPath; }
-                            item.collapsable = true;
+                        if (page.path === ParentPath) {
+                            item.title = "";
+                            item.collapsable = false;
                         }
-                            
-                        else
-                            // found page in path
-                            item.children.push(page.path);
+                        else item.children.push(page.path);
                 });
             }
         }

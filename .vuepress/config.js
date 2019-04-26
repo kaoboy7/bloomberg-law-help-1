@@ -19,12 +19,12 @@ module.exports = {
         ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
     ],
     serviceWorker: true,
+    theme: 'bna',
     themeConfig: {
         docsDir: 'docs',
 
         sidebar: [
             '/docs/*',
-            '/archive/*',
             ]
 
     }
