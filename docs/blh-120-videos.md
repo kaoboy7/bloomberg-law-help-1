@@ -3,20 +3,15 @@ title: Help Videos
 ---
 # Videos
 
-<Brightcove source="HJCdfoas_default/index.html?videoId=5373956243001"></Brightcove>
+<vimeo source="329919395"></vimeo>
 
-### 
+Bloomberg Law Overview
 
-<Brightcove source="default_default/index.html?videoId=5472479259001"></Brightcove>
+<vimeo source="328220623"></vimeo>
 
-### 
+Dockets Part 1
 
-<Brightcove source="default_default/index.html?videoId=5472489231001"></Brightcove>
+<vimeo source="328227590"></vimeo>
 
-### 
+Dockets Part 2
 
-<Brightcove source="default_default/index.html?videoId=5472514922001"></Brightcove>
-
-### 
-
-<Brightcove source="default_default/index.html?videoId=5380459579001"></Brightcove>
