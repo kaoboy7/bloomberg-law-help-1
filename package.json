@@ -15,8 +15,8 @@
     "vuepress": "^0.14.9"
   },
   "dependencies": {
-    "bnacomponents": "^1.0.2",
-    "editorcomponents": "^1.0.1",
+    "bnacomponents": "^1.0.3",
+    "editorcomponents": "^1.0.2",
     "browserify": "^16.2.3",
     "eslint": "^5.14.1",
     "npm": "^6.8.0",
