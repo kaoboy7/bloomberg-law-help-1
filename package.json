@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "vuepress dev",
-    "build": "vuepress build && npm run build-client-js",
+    "build": "vuepress build && yarn run build-client-js",
     "build-client-js": "browserify cms_client.js --standalone editor_components > .vuepress/dist/admin/editor_components.js"
   },
   "devDependencies": {
