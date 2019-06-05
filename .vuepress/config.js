@@ -10,7 +10,7 @@ module.exports = {
     head: [
         ['link', { rel: 'icon', href: `/logo.png` }],
         ['link', { rel: 'manifest', href: '/manifest.json' }],
-        ['link', { rel: 'canonical', href: 'https://bloomberg-law-help.netlify.com' }],
+        ['link', { rel: 'canonical', href: 'https://help.bloomberglaw.com' }],
         ['meta', { name: 'theme-color', content: '#0d9ddb' }],
         ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
         ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
@@ -25,7 +25,11 @@ module.exports = {
 
         sidebar: [
             '/docs/*',
-            ]
+            ],
 
+        logo: "/header-logo.png",
+
+        alternateHomeUrl: "http://www.bloomberglaw.com/",
+        
     }
 }

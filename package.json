@@ -7,7 +7,8 @@
   "license": "MIT",
   "scripts": {
     "dev": "vuepress dev",
-    "build": "vuepress build && yarn run build-client-js",
+    "build": "yarn run copy-home && vuepress build && yarn run build-client-js",
+    "copy-home": "cpy docs/README.md .",
     "build-client-js": "browserify cms_client.js --standalone editor_components > .vuepress/dist/admin/editor_components.js"
   },
   "devDependencies": {
@@ -16,10 +17,11 @@
   },
   "dependencies": {
     "bnacomponents": "^1.0.3",
-    "editorcomponents": "^1.0.2",
     "browserify": "^16.2.3",
+    "cpy-cli": "^2.0.0",
+    "editorcomponents": "^1.0.2",
     "eslint": "^5.14.1",
     "npm": "^6.8.0",
-    "vuepress-theme-bna": "^1.0.7"
+    "vuepress-theme-bna": "^1.0.8"
   }
 }
