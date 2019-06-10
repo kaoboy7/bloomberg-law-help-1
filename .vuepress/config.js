@@ -1,12 +1,5 @@
 module.exports = {
     title: "Bloomberg Law",
-    locales: {
-        '/': {
-            lang: 'de-DE',
-            title: 'Bloomberg Law',
-            description: 'Knowledgeable and experienced legal professionals including attorneys and law librarians are available to assist you 24/7. If you prefer direct communication, feel free to contact the Bloomberg Law Help Desk at 888.560.2529. If you are calling from outside the U.S. or Canada, please call +1 212.318.2800.'
-        }
-    },
     head: [
         ['link', { rel: 'icon', href: `/logo.png` }],
         ['link', { rel: 'manifest', href: '/manifest.json' }],
@@ -23,9 +16,7 @@ module.exports = {
     themeConfig: {
         docsDir: 'docs',
 
-        sidebar: [
-            '/docs/*',
-            ],
+        sidebar: ['/docs/*',],
 
         logo: "/header-logo.png",
 

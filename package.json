@@ -22,6 +22,6 @@
     "editorcomponents": "^1.0.2",
     "eslint": "^5.14.1",
     "npm": "^6.8.0",
-    "vuepress-theme-bna": "1.0.9"
+    "vuepress-theme-bna": "1.1.0"
   }
 }
