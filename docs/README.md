@@ -12,7 +12,7 @@ Knowledgeable and experienced legal professionals including attorneys and law li
 
 |Browse Help   |     |Frequently Asked Questions    |
 |:-------------|-----|:-----------------------------|
-|[Getting Started](/docs/)|[What's New](/docs//blh-000-whats-new.html)|[What's New on Bloomberg Law?](/docs/blh-000-whats-new.html)|
+|[Getting Started](/docs/)|[What's New](/docs/blh-000-whats-new.html)|[What's New on Bloomberg Law?](/docs/blh-000-whats-new.html)|
 |[Search & Browse](/docs/blh-010-search-and-browse.html)|[Specialized Searches](/docs/blh-020-specialized-searches.html)|[Where can I find help videos?](/docs/blh-120-videos.html)  |
 |[Litigation Intelligence Center](/docs/blh-030-litigation-intelligence-center.html)|[Dockets](/docs/blh-040-dockets.html)|[Where can I find transactional precedents?](/docs/blh-050-corporate-and-transactional.html#precedent-documents-overview)|
 |[Transactional Law](/docs/blh-050-corporate-and-transactional.html)|[News & Law Reports](/docs/blh-060-news-and-law-reports.html)|[How do I change my password?](/docs/bla-000.html#change-your-password)|
