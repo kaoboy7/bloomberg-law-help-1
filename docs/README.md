@@ -23,7 +23,7 @@ Knowledgeable and experienced legal professionals including attorneys and law li
 
 [Click here to access Bloomberg Law's Training Videos](/docs/blh-120-videos.html)
 
-[![home](/images/BLaw-Help-Home.jpg "home")](/docs/blh-120-videos.html)
+[![home](/images/blaw-help-home.jpg "home")](/docs/blh-120-videos.html)
 
 
 
