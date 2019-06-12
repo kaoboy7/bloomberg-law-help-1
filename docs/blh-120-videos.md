@@ -15,3 +15,30 @@ Dockets Part 1
 
 Dockets Part 2
 
+<vimeo source="328226197"></vimeo>
+
+News
+
+<vimeo source="328224433"></vimeo>
+
+Points of Law
+
+<vimeo source="328223619"></vimeo>
+
+Practical Guidance
+
+<vimeo source="328228609"></vimeo>
+
+Practice Center Overview
+
+<vimeo source="328222506"></vimeo>
+
+Practitioner Tools
+
+<vimeo source="328221668"></vimeo>
+
+Precedence Search
+
+<vimeo source="328225332"></vimeo>
+
+Workflow Tools
