@@ -7,9 +7,6 @@ actionLink: /docs/bla-000.html
 contactText: Contact Us
 contactLink: https://www.bna.com/bloomberglaw/feedback
 ---
-
-Knowledgeable and experienced legal professionals including attorneys and law librarians are available to assist you 24/7. If you prefer direct communication, feel free to contact the Bloomberg Law Help Desk at 888.560.2529. If you are calling from outside the U.S. or Canada, please call +1 212.318.2800.
-
 |Browse Help   |     |
 |:-------------|-----|
 |[Getting Started](/docs/)|[What's New](/docs/blh-000-whats-new.html)|
