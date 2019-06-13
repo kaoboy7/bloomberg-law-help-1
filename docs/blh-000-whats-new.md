@@ -1,6 +1,591 @@
 ---
 title: Whats's New
 ---
+## June 2019
+
+### PRACTICAL GUIDANCE
+
+Bloomberg Law's [Litigation Practical
+Guidance](https://www.bloomberglaw.com/product/blic/page/blic_pg_library "Litigation Practical Guidance")
+includes overviews, checklists, and sample forms and filings that walk
+users through the legal and logistical issues related to initiating and
+defending litigation. Bloomberg Law's unique integration of content,
+functionality, and tools such as Points of Law, Smart Code, and Docket
+Key -- combined with the guidance of litigation experts -- walks users
+quickly through the stages of pretrial practice and anticipates
+procedural next steps. Litigation Practical Guidance is available on the
+[Litigation Intelligence
+Center](https://www.bloomberglaw.com/product/blic/page/blic_pg_library "Litigation Intelligence Center")
+and the [Practical Guidance
+homepage](https://www.bloomberglaw.com/product/blpg/page/pg_home "Practical Guidance homepage").
+
+Bloomberg Law's Practical Guidance now includes a clickable **Table of
+Contents** allowing for easy navigation throughout a document; links to
+**Related Content** in the right rail of each Practical Guidance page;
+and a **Toggle** switch allowing users to select a page view with or
+without annotations or other commentary, as well as corresponding print
+options.
+
+------------------------------------------------------------------------
+
+### IN FOCUS RESOURCES  
+
+**In Focus: Legal Operations**
+
+New [In Focus: Legal
+Operations](https://www.bloomberglaw.com/product/corporate/cp_home/page/cp_infocus_legalops "In Focus: Legal Operations")
+provides news, analysis, and practical guidance on legal operations, a
+multidisciplinary approach to managing a corporate legal office or law
+firm that aims to improve the organization\'s efficiency, productivity,
+and profitability. One of the principal means of achieving those ends is
+the adoption of technological solutions to reduce professional time
+loss. The new page includes a new, proprietary survey on the state of
+legal operations and legal technology.
+
+The new In Focus page is available on the [Corporate Practice
+Center](https://www.bloomberglaw.com/product/corporate/page/cp_home "Corporate Practice Center")
+as well as the [In Focus
+Resources](https://www.bloomberglaw.com/page/infocus_home "In Focus Resources")
+homepage.
+
+**In Focus: Mobile Health Technology**
+
+Mobile health technology innovation is developing at a rapid pace, with
+a wide variety of actual and potential functions offering benefits to
+patients and health care providers. These technologies also come with
+risks to public health, so federal agencies such as the FTC, FDA, and
+HHS OCR provide oversight of them through various regulatory authority.
+Precisely what regulatory schemes a particular mobile health app is
+subject to is a complicated determination. The new [In Focus: Mobile
+Health
+Technology](https://www.bloomberglaw.com/product/health/health_home/page/infocus_mobile_health_technology "In Focus: Mobile Health Technology")
+page offers resources to help those advising app developers, and those
+who use such apps in providing care to patients, to determine what
+regulations they need to follow and what compliance issues they should
+consider on an ongoing basis.
+
+The new In Focus page is available on the [Health Practice
+Center](https://www.bloomberglaw.com/product/health/page/health_home "Health Practice Center"),
+the [Health Information &
+Technology](https://www.bloomberglaw.com/product/health/page/health_healthit "Health Information & Technology")
+page, the [Pharmaceuticals & Life
+Sciences](https://www.bloomberglaw.com/product/health/page/health_pharma_life_sciences "Pharmaceuticals & Life Sciences")
+page, and [In Focus
+Resources](https://www.bloomberglaw.com/page/infocus_home "In Focus Resources")
+homepage.
+
+**In Focus: Right-to-Work**
+
+Now that a majority of U.S. states have right-to-work laws (laws that
+forbid requiring nonunion employees to join a union or to pay union dues
+as a requirement of employment), scrutiny of such laws is on the rise.
+The new [In Focus: Right-to-Work
+Laws](https://www.bloomberglaw.com/product/labor/le_home/page/infocus_right_to_work_laws "In Focus: Right-to-Work Laws")
+provides news, analysis, recent court opinions, and additional coverage
+including opposing professional perspectives by Irwin H. Cutler, Jr.
+(Union Challenges Under Right to Work Law) and David L. Barron (Right to
+Work Laws: It's All About Free Markets and Employee Choice).
+
+The new In Focus page is available on the [Labor & Employment Practice
+Center](https://www.bloomberglaw.com/product/labor/page/le_home "Labor & Employment Practice Center")
+and the [In Focus
+Resources](https://www.bloomberglaw.com/page/infocus_home "In Focus Resources")
+homepage.
+
+------------------------------------------------------------------------
+
+### DOCKETS
+
+Bloomberg Law's proprietary docket filing classification system, Docket
+Key®, now includes filings from 20 additional federal district courts.
+The updated user interface makes it easier than ever to locate filings.
+Docket Key is available on the [Litigation Intelligence
+Center](https://www.bloomberglaw.com/product/blic/page/blic_home "Litigation Intelligence Center").
+
+------------------------------------------------------------------------
+
+### PRACTICE CENTERS
+
+**Health**
+
+The [State
+Legislative](https://www.bloomberglaw.com/product/health/search/results/a0f2e40092b16051a012ff5b78cdce42 "State Legislative")
+and [State
+Regulatory](https://www.bloomberglaw.com/product/health/search/results/7b1e68577762fbc488ca7c43770f0863 "State Regulatory")
+alerts on the [Health Practice
+Center](https://www.bloomberglaw.com/product/health/page/health_home "Health Practice Center")
+have a new look resembling a table and providing a better user
+experience. Highlights include:
+
+-   Users can filter by Location (state) or Topic on the left-hand side
+    (and by affected entity type for the legislative alert), or by
+    keyword using the search bar at the top.
+-   The display features a table view that shows the summary of the
+    activity, along with a link to more information on the proposed
+    regulation or legislation, including the full text of the proposal
+    and, if applicable, links to current code sections affected by the
+    proposal.
+-   Columns in the table can be customized by users.
+-   Users can set up an alert over the filtered results and/or add them
+    to a workspace or dashboard.
+
+Users who have set up alert emails or dashboards in the previous view
+will transition seamlessly to the same topics with the new view.  Users'
+emails will not change.
+
+**Labor & Employment**
+
+The [2019 Employer Bargaining Objectives
+Report](https://www.bloomberglaw.com/product/labor/document/XAOCRE0G000000?documentName=ORCA122677.PDF&fmt=pdf "2019 Employer Bargaining Objectives Report")
+is now available on the [Labor & Employment Practice
+Center](https://www.bloomberglaw.com/product/labor/document/XAOCRE0G000000?bc=W1siU2VhcmNoICYgQnJvd3NlIiwiL3Byb2R1Y3QvbGFib3IvbGVfaG9tZS9zZWFyY2gvcmVzdWx0cy9lMTA5YjUyMjM0MDAyNTZlNzA5MmVjOGZlZTNkZDgzOCJdXQ--30d968db552291ca42a04bc9dcf56c8fe13a67d8&guid=4d26d347-c759-4970-b0ad-093ffa0deb5d "Labor & Employment Practice Center").
+This annual report details survey findings from 114 participating
+employers regarding their plans and objectives heading into collective
+bargaining in 2019.
+
+------------------------------------------------------------------------
+
+### PORTFOLIOS
+
+Privacy & Data Security Practice Portfolio Series 560: [Cybersecurity
+Governance: A Guide for Corporate Officers, Directors and General
+Counsel](https://www.bloomberglaw.com/browser/105.491180/145161538 "Cybersecurity Governance: A Guide for Corporate Officers, Directors and General Counsel")
+is a new practical guide for corporate leaders, board members, and
+others within an organization tasked with the governance of privacy and
+data security risks. It is treatise-like and intended to be a
+"user-friendly" guide on board oversight of cyber-risk management. It
+was authored by Craig Newman, who chairs Patterson Belknap Webb &
+Tyler's Privacy & Data Security Group, Peter Nelson, and other experts
+within the firm. The portfolio is available on the [Privacy & Data Security Practice Center](https://www.bloomberglaw.com/product/privacy/page/pds_home "Privacy & Data Security Practice Center").
+
+## May 2019
+
+### BLOOMBERG LAW TRAINING VIDEOS
+
+Ten new Bloomberg Law product training videos have been added to the
+Bloomberg Law platform. Each training video, around 4-5 minutes in
+length, provides a topical, step-by-step tutorial on the content, tools,
+and functionality that distinguish Bloomberg Law; including videos on
+Dockets, Practitioner Tools, Practical Guidance, Points of Law, and
+Precedent Search.
+
+The videos are available on Bloomberg Law Help at: [Help Videos](/docs/blh-120-videos.html)
+ and on YouTube at: <https://www.youtube.com/playlist?list=PL_500m6Wb0whyomViH6VkfGN5Olro_ihM>
+
+------------------------------------------------------------------------
+
+### PROFESSIONAL RESPONSIBILITY RESOURCES  
+
+A new practice page -- the [ABA/Bloomberg Law Lawyers' Manual on Professional Conduct](https://www.bloomberglaw.com/product/MOPC/page/mopc_home "ABA/Bloomberg Law Lawyers’ Manual on Professional Conduct")
+-- is a one-stop resource to access authoritative guidance on
+professional responsibility law and malpractice, including in-depth
+analysis of ethics requirements; full text of ABA ethics opinions; ABA
+Model Rules; summaries of ethics opinions for more than 60 state and
+local jurisdictions; and the latest news and analysis of issues in the
+field of legal ethics.
+
+------------------------------------------------------------------------
+
+### ANALYSIS CHANNEL  
+
+The [Bloomberg Law Analysis
+Channel](https://news.bloomberglaw.com/bloomberg-law-analysis/ "Bloomberg Law Analysis Channel"),
+available to Bloomberg Law complete subscribers, serves as a platform
+through which our subject matter expert legal analysts and data
+scientists push out data-driven thought leadership to clients and the
+broader legal market. Here are samples of recent analyses published on
+this new channel
+
+[ANALYSIS: Legal Tech Investments Top \$400M in
+Q1](https://news.bloomberglaw.com/bloomberg-law-analysis/analysis-legal-tech-investments-top-400m-in-q1 "ANALYSIS: Legal Tech Investments Top $400M in Q1")
+by Meg McEvoy
+
+[ANALYSIS: Shutdown & New Legal Bulletin Shape 2019 Proxy
+Season](https://news.bloomberglaw.com/bloomberg-law-analysis/analysis-shutdown-new-legal-bulletin-shape-2019-proxy-season "ANALYSIS: Shutdown & New Legal Bulletin Shape 2019 Proxy Season")
+by Peter Rasmussen
+
+[ANALYSIS: Game of Phones, Part I---\$2.6 Billion in FCPA
+Penalties](https://news.bloomberglaw.com/bloomberg-law-analysis/analysis-game-of-phones-part-i-2-6-billion-in-fcpa-penalties "ANALYSIS: Game of Phones, Part I—$2.6 Billion in FCPA Penalties")
+by Robert Kim
+
+------------------------------------------------------------------------
+
+### PRACTICAL GUIDANCE  
+
+Practical Guidance documents now include a [Related
+Content](https://www.bloomberglaw.com/product/blic/document/X3BJPF48000000 "Related Content")
+menu that links to related Bloomberg Law content types, including other
+Practical Guidance, Precedent Documents & Clauses, Laws & Regulations,
+BNA Portfolios, and Books & Treatises.
+
+------------------------------------------------------------------------
+
+### IN FOCUS  
+
+**Banking**
+
+[In Focus: Fannie-Freddie
+Conservatorship](https://www.bloomberglaw.com/product/bankfinance/bf_home/page/bf_infocus_fanniefreddie "In Focus: Fannie-Freddie Conservatorship")
+covers the legal issues surrounding the Federal Housing Finance Agency's
+(FHFA) ongoing conservatorship of Fannie Mae and Freddie Mac. In the
+aftermath of the financial crisis of 2008, Fannie and Freddie --
+government sponsored enterprises (GSEs) with private investors --
+required a bailout from the U.S. Treasury. The newly-created FHFA was
+appointed as conservator of the two GSEs, and a deal was reached with
+the Treasury in which all profits and net worth would be given back to
+the Treasury rather than to Fannie and Freddie's investors. This In
+Focus page compiles agency materials regarding the conservatorship,
+examines a recent Trump administration plan to end the conservatorship,
+and discusses litigation involving Fannie and Freddie's aggrieved
+investors. The page can be found on the [Banking & Finance Practice
+Center](https://www.bloomberglaw.com/product/bankfinance/page/bf_home "Banking & Finance Practice Center"),
+as well as the [Banking Operations &
+Compliance](https://www.bloomberglaw.com/product/bankfinance/page/bf_operations "Banking Operations & Compliance")
+practice page and the [Real
+Estate](https://www.bloomberglaw.com/product/bankfinance/page/bf_realestate "Real Estate")
+practice page.
+
+**Tech & Telecom**
+
+On November 1, 2018, the Attorney General announced the DOJ China
+Initiative to combat Chinese economic espionage. The goals include
+identifying priority Chinese trade theft cases, ensuring that the DOJ
+dedicates sufficient resources to them and concludes them quickly and
+effectively. The new [In Focus: DOJ China
+Initiative](https://www.bloomberglaw.com/product/BLIP/page/pts_infocus_doj_china_initiative "In Focus: DOJ China Initiative")
+gathers information about the China Initiative, related DOJ actions, and
+antecedents to the China Initiative that involved the same legal issues.
+The page is available via the [In Focus
+Homepage](https://www.bloomberglaw.com/page/infocus_home "In Focus Homepage"),
+on the [Patents & Trade Secrets Practice
+Center](https://www.bloomberglaw.com/product/ip/page/pts_home "Patents & Trade Secrets Practice Center"),
+and on the [Tech & Telecom Practice
+Center](https://www.bloomberglaw.com/product/tech/page/tt_home "Tech & Telecom Practice Center").
+
+As self-driving technology gains broader acceptance and use, motor
+vehicle claim handlers and litigators must prepare for a shift in
+liability theories and analysis. A new three-part series on the
+litigation landscape surrounding autonomous vehicles authored by
+attorneys from Hughes Hubbard & Reed LLP has been added to our [In
+Focus: Autonomous
+Vehicles](https://www.bloomberglaw.com/product/tech/tt_home/page/infocus_autonomous_vehicles "In Focus: Autonomous Vehicles"),
+including:
+
+[The Litigation Landscape for Autonomous Vehicle Crash Liability, Part
+1: Current
+Conditions](https://www.bloomberglaw.com/product/tech/tt_home/document/X9QQ6TS000000 "The Litigation Landscape for Autonomous Vehicle Crash Liability, Part 1: Current Conditions")
+
+[The Litigation Landscape for Autonomous Vehicle Crash Liability, Part
+2: New Tech, New
+Claims](https://www.bloomberglaw.com/product/tech/tt_home/document/X9QQ6TS000000 "The Litigation Landscape for Autonomous Vehicle Crash Liability, Part 2: New Tech, New Claims")
+
+[The Litigation Landscape for Autonomous Vehicle Crash Liability, Part
+3: A Look
+Ahead](https://www.bloomberglaw.com/product/tech/tt_home/document/XCOH05MS000000 "The Litigation Landscape for Autonomous Vehicle Crash Liability, Part 3: A Look Ahead")
+
+The series is available on the In Focus Homepage and on the [Tech &
+Telecom Practice
+Center](https://www.bloomberglaw.com/product/tech/page/tt_home "Tech & Telecom Practice Center")
+
+------------------------------------------------------------------------
+
+### TRACKERS  
+
+**Labor & Employment**
+
+The new [Family Leave Insurance Programs
+Tracker](https://www.bloomberglaw.com/product/labor/le_home/document/XATHRMVK000000 "Family Leave Insurance Programs Tracker")
+covers state-run programs that provide workers with partial wage
+replacement when they take leave for a family member\'s serious health
+condition, the birth or adoption of their child, the placement of a
+foster child with the worker, or qualifying exigencies related to a
+family member's current or impending active duty in the U.S. armed
+forces. The programs are funded by a mix of employer/employee
+contributions, and benefits are capped at a certain number of weeks in a
+year. The tracker is available on the [Labor & Employment Practice
+Center](https://www.bloomberglaw.com/product/labor/page/le_home "Labor & Employment Practice Center")
+under Trackers and Practice Tools, as well as on the [Trackers
+Homepage](https://www.bloomberglaw.com/page/trackers_home "Trackers Homepage").
+
+------------------------------------------------------------------------
+
+### PRACTICE CENTERS  
+
+**Labor & Employment**
+
+A new International Whitepaper, [Mental Health and Employer
+Liability](https://www.bloomberglaw.com/product/labor/le_international/document/25214181416 "Mental Health and Employer Liability"),
+has been added to the [International
+page](https://www.bloomberglaw.com/product/labor/page/le_international "International page")
+on the [Labor & Employment Practice
+Center](https://www.bloomberglaw.com/product/labor/page/le_home "Labor & Employment Practice Center").
+The author, Rensia Melles, Founder, Integral Workplace Health, discusses
+the nature of the changing employer liability for worker mental health;
+provides an overview of legislation in the U.S., Canada, and the EU; and
+provides recommendations regarding how employers should respond to this
+changing liability.
+
+## April 2019
+
+### PRACTICAL GUIDANCE
+
+**Labor & Employment**
+
+New [Step-by-Step: Prepare for & Take Oral
+Depositions](https://www.bloomberglaw.com/product/labor/le_home/page/inpractice_le33 "Step-by-Step: Prepare for & Take Oral Depositions")
+in employment cases surfaces more than 50 resources on Bloomberg Law for
+defense and plaintiffs\' attorneys who must question complainants,
+defendants, and witnesses in a variety of situations. The resources
+include sample questions, tips on conducting depositions, and sample
+litigation documents. This page is located on the [Labor & Employment
+Practice
+Center](https://www.bloomberglaw.com/product/labor/page/le_home "Labor & Employment Practice Center"),
+under the [Labor & Employment Practical Guidance
+Library](https://www.bloomberglaw.com/product/labor/le_home/page/le_guidance "Labor & Employment Practical Guidance Library"),
+as well as on the [Practical Guidance
+Homepage](https://www.bloomberglaw.com/page/pg_home "Practical Guidance Homepage").
+
+**Patents & Trade Secrets**
+
+A new Practical Guidance page -- [Allowance and
+Fees](https://www.bloomberglaw.com/product/ip/pts_home/page/pts_pg_allowance_fees "Allowance and Fees")
+-- includes guidance on amendments and relevant filing and maintenance
+fees. It is available on the [Patents & Trade Secrets Practice
+Center](https://www.bloomberglaw.com/product/ip/page/pts_home "Patents & Trade Secrets Practice Center"),
+the [Patent Prosecution Practice
+Page](https://www.bloomberglaw.com/product/ip/pts_patent_prosecution_practice/page/pts_patent_prosecution_practice "Patent Prosecution Practice Page"),
+and the [Practical Guidance
+Homepage](https://www.bloomberglaw.com/page/pg_home "Practical Guidance Homepage").
+Additional guidance on [Patent
+Examinations](https://www.bloomberglaw.com/product/ip/pts_home/page/pts_pg_patent_examinations "Patent Examinations"),
+addressing expedited examinations, examiner interviews, and continuation
+applications has been added to the same locations. Also, patent
+prosecution Practical Guidance -- including professional perspectives,
+overviews, and checklists -- has been added to the existing [Patent
+Application](https://www.bloomberglaw.com/product/ip/pts_home/page/pts_pg_patent_applications "Patent Application")
+page. 
+
+------------------------------------------------------------------------
+
+### CHART BUILDERS
+
+**Health**
+
+The new [Certificates of
+Need](https://www.bloomberglaw.com/product/health/bbna/chart/43/10104 "Certificates of Need")
+Chart Builder surveys regulations by state and addresses regulated
+entities, prohibitions, and licensing agencies. It is available on the
+Health Practice Center's [Health Chart
+Builders](https://www.bloomberglaw.com/product/health/health_home/page/health_chart_builders "Health Chart Builders")
+page under Hospital & Provider Regulation, as well as on the [Chart
+Builder
+Homepage](https://www.bloomberglaw.com/page/chart_builders_home "Chart Builder Homepage").
+
+The new [Nurse Practitioner Scope of
+Practice](https://www.bloomberglaw.com/bbna/chart/43/10103 "Nurse Practitioner Scope of Practice")
+Chart Builder compares how states regulate the scope of practice for
+nurse practitioners, and provides information about prescriptive
+authority and authority to practice as primary care providers. It is
+available on the Health Practice Center's [Health Chart
+Builders](https://www.bloomberglaw.com/product/health/health_home/page/health_chart_builders "Health Chart Builders")
+page under Hospital & Provider Regulation, and on the main [Chart
+Builder
+Homepage](https://www.bloomberglaw.com/page/chart_builders_home "Chart Builder Homepage").
+
+The new [Physician Assistant Scope of
+Practice](https://www.bloomberglaw.com/product/health/bbna/chart/43/10100 "Physician Assistant Scope of Practice")
+Chart Builder compares how states regulate the scope of practice for
+physician assistants and provides information about prescriptive
+authority and supervision requirements. It is available on the Health
+Practice Center's [Health Chart
+Builders](https://www.bloomberglaw.com/product/health/health_home/page/health_chart_builders "Health Chart Builders")
+page under Hospital & Provider Regulation, and on the main [Chart
+Builder
+Homepage](https://www.bloomberglaw.com/page/chart_builders_home "Chart Builder Homepage").
+
+**Banking & Finance**
+
+The [General Lending: Compliance
+Issues](https://www.bloomberglaw.com/product/bankfinance/bbna/chart/40/10062 "General Lending: Compliance Issues")
+Chart Builder covers certain generally-applicable lending laws in all 50
+states (plus DC) such as recordkeeping requirements, annual reporting
+requirements, license renewal fees and forms, and lending limits. The
+new Chart Builder is available on the [Banking & Finance
+Homepage](https://www.bloomberglaw.com/product/bankfinance/page/bf_home "Banking & Finance Homepage")
+in the Chart Builders drop-down list, as well as on the [Chart Builders
+Homepage](https://www.bloomberglaw.com/page/chart_builders_home "Chart Builders Homepage").
+
+
+The [Student Loan Servicers: Licensing
+Requirements](https://www.bloomberglaw.com/product/bankfinance/bbna/chart/40/10061 "Student Loan Servicers: Licensing Requirements")
+Chart Builder provides a survey of state laws regulating entities that
+service private education loans. The Chart Builder provides fast answers
+about which states require licenses for student loan servicers; which
+activities fall within the definitions for "servicing" student loans
+under state law; and what requirements must be satisfied by applicants
+for such licenses -- such as licensing fees, net worth requirements, and
+surety bond requirements. The new Chart Builder is available on the
+[Banking & Finance
+Homepage](https://www.bloomberglaw.com/product/bankfinance/page/bf_home "Banking & Finance Homepage")
+in the chart builders drop-down list, as well as the on the [Chart
+Builders
+Homepage](https://www.bloomberglaw.com/page/chart_builders_home "Chart Builders Homepage").
+
+
+The [General Lending:
+Fees](https://www.bloomberglaw.com/product/bankfinance/bbna/chart/40/10060 "General Lending: Fees")
+Chart Builder provides a survey of the various fees that may be charged
+by lenders of general consumer loans such as late fees, dishonored
+payment fees, and prepayment penalties. This Chart Builder addresses
+loans that don't fit within the labels of "small loan", "payday loan",
+or "title loan". It is available on the [Banking & Finance
+Homepage](https://www.bloomberglaw.com/product/bankfinance/page/bf_home "Banking & Finance Homepage")
+in the Chart Builders drop-down list, as well as the on the [Chart
+Builders
+Homepage](https://www.bloomberglaw.com/page/chart_builders_home "Chart Builders Homepage").
+
+------------------------------------------------------------------------
+
+### TRACKERS
+
+**Labor & Employment**
+
+Three new tools for monitoring litigation under the Fair Labor Standards
+Act are now available on the Labor & Employment Practice Center: [Latest
+FLSA Cases on Federal Dockets; Latest Court Decisions on the
+FLSA](https://www.bloomberglaw.com/product/labor/le_home/search/results/027c9711c49a19a46264dc42a82a790f "Latest FLSA Cases on Federal Dockets; Latest Court Decisions on the FLSA");
+and [FLSA Settlements in the
+News](https://www.bloomberglaw.com/product/labor/le_home/search/results/8caf81bcb48ca151f949e5b78d17e5be "FLSA Settlements in the News").
+The Trackers allow users to quickly monitor new lawsuits, recently
+issued opinions in federal and state courts, and reported settlements of
+claims. These tools utilize Bloomberg Law's extensive and continuously
+updated court and news databases and can be found on the [Labor &
+Employment Practice Center's
+Homepage](https://www.bloomberglaw.com/product/labor/page/le_home "Labor & Employment Practice Center’s Homepage")
+and the [Employment Practice
+Page](https://www.bloomberglaw.com/product/labor/page/le_employment "Employment Practice Page") 
+under Trackers & Practice Tools.
+
+Three new tools for monitoring verdicts and settlements in employment
+discrimination cases are available on the Labor & Employment Practice
+Center: [Employment Discrimination Verdicts & Settlements
+News](https://www.bloomberglaw.com/product/labor/search/results/c0a36747a72b46cd563f0c779bc0845a "Employment Discrimination Verdicts & Settlements News");
+[Discrimination Verdicts & Settlements Case
+Law](https://www.bloomberglaw.com/product/blic/blic_home/search/results/784c7bd05e7da4a82811a2ae2e509738?bc=W1siU2VhcmNoICYgQnJvd3NlIiwiL3Byb2R1Y3QvYmxpYy9ibGljX2hvbWUvc2VhcmNoL3Jlc3VsdHMvZmZjZmM3YWNlMDA1Y2M3NDk5NzViOTQ3MzcwMWFkNmEiXV0--c05a0ece20948062fcad7d5e1836fe662a962ab0 "Discrimination Verdicts & Settlements Case Law");
+and [Discrimination Settlements on Federal
+Dockets](https://www.bloomberglaw.com/product/blic/blic_home/search/results/119d1fd189e43c85bb4bcc9990655dab?bc=W1siU2VhcmNoICYgQnJvd3NlIiwiL3Byb2R1Y3QvYmxpYy9ibGljX2hvbWUvc2VhcmNoL3Jlc3VsdHMvNTE1Y2JiY2NlYmZlY2NiMDgxMDMwMjRjMTY2MDZhYWUiXV0--12ba42fce2d849d9a5dbd6968ed649fd8f1cda02 "Discrimination Settlements on Federal Dockets").
+The new Trackers allow users to quickly monitor recent verdicts and
+settlement activity in employment discrimination cases based on court
+opinions, federal dockets, and news reports. They are available on
+[Labor & Employment Practice Center
+Homepage](https://www.bloomberglaw.com/product/labor/page/le_home "Labor & Employment Practice Center Homepage")
+and on the [Employment Practice
+Page](https://www.bloomberglaw.com/product/labor/page/le_employment "Employment Practice Page")
+under Trackers & Practice Tools.
+
+------------------------------------------------------------------------
+
+### IN FOCUS
+ 
+**Benefits & Executive Compensation**
+
+The [In Focus: ERISA
+Litigation](https://www.bloomberglaw.com/product/bec/bec_home/page/infocus_erisalitig "In Focus: ERISA Litigation")
+page includes essential background information on this federal law; a
+link to a search that replaces the ERISA Litigation Tracker (retired
+3/31/19); and links to Practical Guidance, news searches, and more. This
+new resource can be accessed on the [Benefits & Executive Compensation
+Practice Center
+Homepage](https://www.bloomberglaw.com/product/bec/page/bec_home "Benefits & Executive Compensation Practice Center Homepage"),
+as well as on the [In Focus Resources
+Homepage](https://www.bloomberglaw.com/page/infocus_home "In Focus Resources Homepage").
+
+------------------------------------------------------------------------
+
+### NEWS
+
+A new tool for monitoring case law developments in the area of
+intellectual property is available on the [IP Law news
+channel](https://www.bloomberglaw.com/product/ip/bloomberglawnews/ip-law?tab=LATEST_DECISIONS "IP Law news channel")
+on Bloomberg Law. The continuously updated **In Brief** tab on this
+channel allows users to gain the latest information on new IP-related
+decisions from the courts and the USPTO's Trademark Trial and Appeals
+Board. Significant decisions from the Patent Trial and Appeals Board
+will also be added to the In Brief tab soon. The IP Law News Channel is
+also available on the [Patents & Trade Secrets Practice
+Center](https://www.bloomberglaw.com/product/ip/page/pts_home "Patents & Trade Secrets Practice Center")
+and on the [Trademarks & Copyrights Practice
+Center](https://www.bloomberglaw.com/product/ip/page/tc_home "Trademarks & Copyrights Practice Center")
+under News.
+
+------------------------------------------------------------------------
+
+### PRACTICE CENTERS
+
+**Labor & Employment**
+
+A new Labor & Employment practitioners\' resource page on [Wages, Hours,
+and
+Leave](https://www.bloomberglaw.com/product/labor/page/le_wagehourleave "Wages, Hours, and Leave")
+on the  [Labor & Employment Practice
+Center](https://www.bloomberglaw.com/product/labor/page/le_home "Labor & Employment Practice Center")
+provides quick, single location access to secondary content, Practical
+Guidance, opinions and dockets, and other tools relating to the Fair
+Labor Standards Act, the Family and Medical Leave Act, and related
+federal and state laws.
+
+A new International Whitepaper, [Gender Equality in the Workplace: How
+Far Will France
+Go?](https://www.bloomberglaw.com/product/labor/document/25133004840?imagename=orca118578.pdf "Gender Equality in the Workplace: How Far Will France Go?"),
+has been added to the [International
+Page](https://www.bloomberglaw.com/product/labor/page/le_international "International Page")
+on the [Labor & Employment Practice
+Center](https://www.bloomberglaw.com/product/labor/page/le_home "Labor & Employment Practice Center").
+The authors, attorneys Julien Haure and Marine Hamon with Mayer Brown in
+Paris, provide an overview of French legal provisions that seek to
+promote gender equality in the workplace along with the latest reforms
+to reach and ensure "real and effective gender equality" as announced by
+the Ministry of Labour.
+
+Two quarterly reports have been added to the Labor & Employment Practice
+Center: [Job Absence &
+Turnover](https://www.bloomberglaw.com/product/hr/document/25147828776 "Job Absence & Turnover"),
+4th Quarter 2018, covers worker's unscheduled absences and turnover in
+the fourth quarter; [Employment
+Outlook](https://www.bloomberglaw.com/product/hr/document/25147828264 "Employment Outlook"),
+2nd Quarter 2019,covers hiring prospects for the current quarter. Both
+reports are available under [Surveys &
+Reports](https://www.bloomberglaw.com/product/hr/toc/source/105.550562#143347324 "Surveys & Reports")
+under the Human Resources Link on the [Labor & Employment
+Homepage](https://www.bloomberglaw.com/product/labor/page/le_home "Labor & Employment Homepage").
+
+**Benefits & Executive Compensation**
+
+A new book, [ERISApedia: Who's the Employer?
+eSource](https://www.bloomberglaw.com/product/bec/bec_home/toc/source/550306/3905 "ERISApedia: Who’s the Employer? eSource"),
+is live on the Benefits and Executive Compensation Practice Center's
+[Books and Treatises
+Page](https://www.bloomberglaw.com/product/bec/bec_home/page/bec_books "Books and Treatises page")
+and the [Retirement Plans Practice
+Page](https://www.bloomberglaw.com/product/bec/page/bec_retirement "Retirement Plans Practice Page").
+
+**Banking & Finance**
+
+A new Banking Portfolio, [BPS 450 -- Federal Regulation of Affiliate
+Transactions by Financial
+Institutions](https://www.bloomberglaw.com/product/bankfinance/toc/source/105.484716/144755028 "BPS 450 – Federal Regulation of Affiliate Transactions by Financial Institutions")
+by Gordon Miller of Buckley LLP, was added to the Banking Practice
+Portfolio Series, featured on the [Banking & Finance Practice
+Center](https://www.bloomberglaw.com/product/bankfinance/page/bf_home "Banking & Finance Practice Center").
+This Portfolio provides an overview of laws and regulation governing
+transactions between a financial institution and its affiliates --
+primarily sections 23A and 23B of the Federal Reserve Act, and the
+Federal Reserve Board's Regulation W. The Portfolio also includes [17
+practice
+tools](https://www.bloomberglaw.com/product/bankfinance/search/results/44077427887b13d6791593d5ecbb699d "17 practice tools")
+that help the reader visualize the different organizational structures
+that may result in an affiliate relationship.
+
 ## March 2019
 
 ### PRACTICAL GUIDANCE
@@ -32,9 +617,7 @@ Chemical patents is a highly specialized practice area and this offering
 of overviews, strategies, checklists, and sample forms is designed to
 meet the unique drafting and validity requirements of chemical patents.
 
-### 
-
-- - -
+------------------------------------------------------------------------
 
 ### TRACKERS
 
@@ -54,9 +637,7 @@ Practice
 Center](https://www.bloomberglaw.com/product/privacy/page/pds_home "Privacy & Data Security Practice Center")
 homepage in the Practice Tools container.
 
-### 
-
-- - -
+------------------------------------------------------------------------
 
 ### IN FOCUS
 
@@ -110,9 +691,7 @@ as well as the [In Focus
 Resources](https://www.bloomberglaw.com/page/infocus_home "In Focus Resources")
 homepage.
 
-### 
-
-- - -
+------------------------------------------------------------------------
 
 ### PRACTICE CENTERS
 
@@ -175,7 +754,7 @@ eSource](https://www.bloomberglaw.com/product/bec/toc/source/105.550302/3904 "So
 
 ### PRACTICAL GUIDANCE
 
-Labor & Employment  
+**Labor & Employment**
 
 New step-by-step Practical Guidance [Understand & Prepare for Strikes &
 Lockouts](https://www.bloomberglaw.com/product/labor/page/inpractice_le35 "Understand & Prepare for Strikes & Lockouts")
@@ -189,10 +768,9 @@ sure that their actions comport with the National Labor Relations Act,
 as well as legal precedent established by the National Labor Relations
 Board and the federal courts.
 
-Health Care  
+**Health Care**
 
-Privacy & Data Security  
-
+**Privacy & Data Security**
 
 New Practical Guidance on GDPR compliance as it relates to [Health Care
 Cybersecurity](https://www.bloomberglaw.com/product/health/health_home/page/healthcare_cybersecurity "Health Care Cybersecurity")
@@ -205,13 +783,11 @@ Acevedo of Polsinelli, covers a range of issues of particular interest
 to health care companies with EU connections, from sensitive information
 to distinctions between HIPAA and GDPR notice and consent requirements.
 
-### 
-
-- - -
+------------------------------------------------------------------------
 
 ### STATE CHART BUILDER
 
-Health Care  
+**Health Care**
 
 Federal content added to a number of State Chart Builders on the [Health
 Care Practice
@@ -238,8 +814,8 @@ and [Gag
 Clauses](https://www.bloomberglaw.com/product/health/bbna/chart/43/201 "Gag Clauses").
 
 ### IN FOCUS
-In Focus: California Consumer Privacy Act (CCPA)  
 
+**In Focus: California Consumer Privacy Act (CCPA)**
 
 A new In Focus page[California Consumer Privacy
 Act](https://www.bloomberglaw.com/product/privacy/pds_home/page/in_focus_ccpa "California Consumer Privacy Act")
@@ -255,9 +831,7 @@ a 12-month look-back provision, which requires businesses to respond to
 consumer requests for personal information collected or sold within the
 past 12 months.
 
-### 
-
-- - -
+------------------------------------------------------------------------
 
 ### TRACKERS
 
@@ -274,13 +848,11 @@ homepage and the [Financial
 Technology](https://www.bloomberglaw.com/product/bankfinance/page/bf_fintech "Financial Technology")
 practice page.
 
-### 
-
-- - -
+------------------------------------------------------------------------
 
 ### PRACTICE CENTERS
 
-Labor & Employment  
+**Labor & Employment**
 
 The [2019 Outlook Labor &
 Employment](https://www.bloomberglaw.com/product/labor/document/X6EQ8TUK000000 "2019 Outlook Labor & Employment")
@@ -321,8 +893,7 @@ under International Labor & Employment Perspectives on the
 practice page on the [Labor & Employment Practice
 Center](https://www.bloomberglaw.com/product/labor/page/le_home "Labor & Employment Practice Center").
 
-Privacy & Data Security  
-
+**Privacy & Data Security**
 
 Bloomberg Law continues to build out its collection of Domestic
 Profiles, adding North and South Dakota, Vermont, and Wyoming.  Profiles
@@ -330,9 +901,7 @@ summarize state data privacy laws by function, topic, and sector. 
 Available on the [Privacy & Data Security Practice
 Center](https://www.bloomberglaw.com/product/privacy/page/pds_home "Privacy & Data Security Practice Center").
 
-### 
-
-- - -
+------------------------------------------------------------------------
 
 ### USC/CFR REDLINE COMPARISON
 
@@ -349,8 +918,7 @@ Redline versioning is available from 2012 to date.
 
 ### PRACTICAL GUIDANCE
 
-Corporate  
-
+**Corporate**
 
 An expanded suite of **Alternative Entities Practical Guidance**
 includes **state-specific limited liability company** (LLC) forms for
@@ -382,7 +950,7 @@ page](https://www.bloomberglaw.com/product/corporate/cp_compliance/page/cp_inpra
 and on the [Practical Guidance
 homepage](https://www.bloomberglaw.com/page/pg_home "Practical Guidance homepage").
 
-Banking & Finance  
+**Banking & Finance**
 
 A new series of overviews on Intercreditor Arrangements has been added
 to the [Banking & Finance Practice Center Commercial Lending
@@ -397,7 +965,7 @@ and/or creditors. The overviews include:
 * Mezzanine Financing Payment Subordination Agreements
 * Unitranche Agreements Among Lenders?
 
-Bankruptcy  
+**Bankruptcy**
 
 New step-by-step Practical Guidance **Transferring Venue**has been added
 to the Bankruptcy Practice Center. The venue provisions of the
@@ -427,7 +995,7 @@ Guidance](https://www.bloomberglaw.com/product/bky/bky_home/page/bky_pg_venue "B
 or under the Bankruptcy section on the [Practical Guidance
 homepage](https://www.bloomberglaw.com/page/pg_home "Practical Guidance homepage").
 
-- - -
+------------------------------------------------------------------------
 
 ### IN FOCUS
 
@@ -445,7 +1013,7 @@ page on the Labor & Employment Practice Center pulls together news,
 court opinions, Practical Guidance, and other essential coverage to
 provide current, comprehensive analysis of this developing issue.
 
-- - -
+------------------------------------------------------------------------
 
 ### LABOR & EMPLOYMENT PRACTICE CENTER
 
@@ -458,7 +1026,7 @@ policy, a notice that employers can use to inform employees of their
 rights under GDPR, and U.S. state requirements for data privacy and
 protection.
 
-- - -
+------------------------------------------------------------------------
 
 ### HEALTH CARE PRACTICE CENTER
 
@@ -473,7 +1041,7 @@ on the [In Focus: Opioid Issues for Health Care
 Providers](https://www.bloomberglaw.com/product/health/health_home/page/infocus_opioid_issues "In Focus: Opioid Issues for Health Care Providers")
 page.
 
-- - -
+------------------------------------------------------------------------
 
 ### TRANSACTIONAL INTELLIGENCE CENTER
 
