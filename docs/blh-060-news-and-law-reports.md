@@ -38,24 +38,40 @@ To set a search alert or save the search for future use, click **Create Search A
 
 ![News Search Results](/images/news-search-2.jpg)
 
-## BNA Law Reports
+## Bloomberg Law Enhanced News
 
-Search, browse, read and manage the email for the full collection of BNA Law Reports on the BNA Law Reports page. 
+Stay ahead of legal developments and gain critical insights into the
+implications for your clients or organization. Bloomberg Law's enhanced
+news -  25+ products -- provides customizable delivery of timely and
+concise news you can rely on. Key features include:
 
-**How to Access BNA Law Reports**
+-   Delivery of news as it happens
+-   Customizable news feeds by topic
+-   User-defined custom email alerts sent at a time and frequency you
+    choose
+-   Bloomberg Law expert Insights
+-   First Move -- a preview of the day's top stories (with select news
+    sources)
+-   Highlights of the day's top stories
 
-1. In the **Search** Bar, enter "Law Reports" and select **Law Reports Search**, or alternatively go to  the **Browse All Content** menu, select News and click BNA Law Reports.
-2. View Law Reports by **Topic** or **Title**. 
-3. Use the **Search BNA Law Reports** frame to search individual Law Reports, or BNA Insights.
+1. For quick access to all enhanced news products, click the BROWSE button and select News.
 
-![Bna Law Reports](/images/bna-law-reports.jpg)
+![Blaw_browse](/images/blaw-browse.jpg "Blaw_browse")
 
-**BNA Law Reports - Individual Issues** 
+2. Select Bloomberg Law News.
 
-1. Select **BNA Highlights** or **Headlines with Summaries** to skim the content of the latest articles by summary style.
-2. Select **View Full Issue** to go to the full text of the latest issue.
-3. **Latest Developments** display with topic-specific breaking news. 
-4. Select **Manage Email Notifications** to customize the topics and frequency of the email news alerts you receive.
-5. Review **Insights** to read the latest analysis from leading practitioners.
+![blaw_bloomberg_law](/images/blaw-bloomberg-law.jpg "blaw_bloomberg_law")
 
-![Individual Issues](/images/bna-law-reports_issues.jpg)
+3. A drop-down menu will display all enhanced news products. Select the enhanced news product of interest to you.
+
+![blaw_bloomberg_law_news](/images/blaw-bloomberg-law-news.jpg "blaw_bloomberg_law_news")
+
+4. You can also access enhanced products via the GO Bar, including autocomplete functionality.
+
+5. Type in a news product name -- such as **Health Law and Business** -- and the Go Bar will autocomplete the name.
+
+6. Click Navigation to go directly to the news product.
+
+![blaw_health_news](/images/blaw-health-news.jpg "blaw_health_news")
+
+![blaw_health_law_business](/images/blaw-health-law-business.png "blaw_health_law_business")
