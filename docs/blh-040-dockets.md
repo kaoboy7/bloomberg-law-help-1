@@ -70,7 +70,7 @@ Below are three examples of how Specialized Docket Search can help you pinpoint 
 2. The **Dockets Search** form displays.
 3. In the **COURTS** field, click **Browse Full List**, go to **Districts of Florida**, and select **Southern District of Florida**. 
 4. Select **Chapter 11**, and set the **Assets and Liabilities** scroll bar to reflect the monetary value of the case.
-5. Click the **Create Search Alert** link. See [Saved Searches and Alerts](https://www.bna.com/saved-search-alerts/) for additional information.
+5. Click the **Create Search Alert** link. See [Saved Searches and Alerts](/docs/blh-010-search-and-browse.html#saved-searches-alerts) for additional information.
 
 * **Search for all civil U.S. District Court and Appellate Courts patent, copyright or trademark dockets involving IBM and its subsidiaries**
 

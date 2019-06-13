@@ -9,7 +9,7 @@ contactLink: https://www.bna.com/bloomberglaw/feedback
 ---
 |Browse Help   |     |
 |:-------------|-----|
-|[Getting Started](/docs/)|[What's New](/docs/blh-000-whats-new.html)|
+|[Getting Started](/docs/bla-000.html)|[What's New](/docs/blh-000-whats-new.html)|
 |[Search & Browse](/docs/blh-010-search-and-browse.html)|[Specialized Searches](/docs/blh-020-specialized-searches.html)|
 |[Litigation Intelligence Center](/docs/blh-030-litigation-intelligence-center.html)|[Dockets](/docs/blh-040-dockets.html)|
 |[Transactional Law](/docs/blh-050-corporate-and-transactional.html)|[News & Law Reports](/docs/blh-060-news-and-law-reports.html)|

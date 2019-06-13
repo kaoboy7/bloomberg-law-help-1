@@ -73,8 +73,7 @@ x**![Iconredx](/images/ss_Icon_red_x.jpg
 
  
 
-**Create a [Search
-Alert](https://www.bna.com/saved-search-alerts/ "Search Alert ") **  
+The link to **Create a** [Search Alert](/docs/blh-010-search-and-browse.html#saved-searches-alerts "Search Alert ") displays at the bottom of the template. 
 
  
 
@@ -129,13 +128,10 @@ click **Search**. 
 date.
 
 
-![CourtOpinionsSearchTemplate](/images/ss_Court_Opinions_Search_Template.jpg
-"CourtOpinionsSearchTemplate")
+![CourtOpinionsSearchTemplate](/images/ss_Court_Opinions_Search_Template.jpg "CourtOpinionsSearchTemplate")
 
 
- Links to **Create [Search
-Alert](https://www.bna.com/saved-search-alerts/ "Search Alert")** and
-**Add Search to Dashboard** display at the bottom of the template. 
+Links to **Create** [Search Alert](/docs/blh-010-search-and-browse.html#saved-searches-alerts "Search Alert") and **Add Search to Dashboard** display at the bottom of the template. 
 
 ## Legislative Search
 
@@ -172,16 +168,14 @@ Contents. 
 
  
 
-![Legislativesearchtemplate](/images/ss_Legislative_search_template.jpg
-"Legislativesearchtemplate")
+![Legislativesearchtemplate](/images/ss_Legislative_search_template.jpg "Legislativesearchtemplate")
 
  
 
  
 
  Links to **Create [Search
-Alert](https://www.bna.com/saved-search-alerts/ "Search Alert")** and **Add
-Search to Dashboard** display at the bottom of the template. 
+Alert](/docs/blh-010-search-and-browse.html#saved-searches-alerts "Search Alert")** and **Add Search to Dashboard** display at the bottom of the template. 
 
  
 
@@ -194,8 +188,12 @@ Search to Dashboard** display at the bottom of the template. 
 3.  Click the title in the **CITATION LOOKUP** frame to view the full
     text. 
 
-![LegislativesearchPL(1)](/images/ss_Legislative_search_PL\(1\).jpg
-"LegislativesearchPL(1)")
+![LegislativesearchPL(1)](/images/ss_Legislative_search_PL\(1\).jpg "LegislativesearchPL(1)")
+
+# Related Topics
+
+[Find & Select Sources](/docs/blh-010-search-and-browse.html#find-select-sources)  
+[Congressional Bill Search](/docs/blh-020-specialized-searches.html#congressional-bill-search)
 
 
 ## Congressional Bill Search
@@ -232,7 +230,7 @@ Congressional Bills** selected. Enter your search terms in the
  
 
 Links to **Create a [Search
-Alert](https://www.bna.com/saved-search-alerts/ "Search Alert")** or
+Alert](/docs/blh-010-search-and-browse.html#saved-searches-alerts "Search Alert")** or
 **Add Search to Dashbord** display at the bottom of the template.   
   
 
@@ -275,13 +273,15 @@ CFR. 
  
 
  Links to **Create [Search
-Alert](https://www.bna.com/saved-search-alerts/ "Search Alert")** and **Add
+Alert](/docs/blh-010-search-and-browse.html#saved-searches-alerts "Search Alert")** and **Add
 Search to Dashboard** display at the bottom of the template. 
 
  
 
-  
-  
+# Related Topics
+
+[Federal Register Search](/docs/blh-020-specialized-searches.html#federal-register-search)  
+
 
  
 
@@ -319,7 +319,7 @@ Enter the search criteria in the appropriate fields. Click
  
 
 Links to **Create [Search
-Alert](https://www.bna.com/saved-search-alerts/ "Search Alert")** and **Add
+Alert](/docs/blh-010-search-and-browse.html#saved-searches-alerts "Search Alert")** and **Add
 Search to Dashboard** display at the bottom of the template. 
 
  
@@ -379,7 +379,7 @@ semicolons.
  
 
 **Create a [Search
-Alert](https://www.bna.com/saved-search-alerts/ "Search Alert ") **
+Alert](/docs/blh-010-search-and-browse.html#saved-searches-alerts "Search Alert ") **
 
 ## Patent Assignments
 
@@ -415,5 +415,5 @@ search. 
  
 
  Links to **Create [Search
-Alert](https://www.bna.com/saved-search-alerts/ "Search Alert")** and **Add
+Alert](/docs/blh-010-search-and-browse.html#saved-searches-alerts "Search Alert")** and **Add
 Search to Dashboard** display at the bottom of the template.
