@@ -1,5 +1,5 @@
 ---
-title: Help Videos
+title: Training Videos
 ---
 # Videos
 

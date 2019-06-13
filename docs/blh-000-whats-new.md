@@ -169,7 +169,7 @@ and functionality that distinguish Bloomberg Law; including videos on
 Dockets, Practitioner Tools, Practical Guidance, Points of Law, and
 Precedent Search.
 
-The videos are available on Bloomberg Law Help at: [Help Videos](/docs/blh-120-videos.html)
+The videos are available on Bloomberg Law Help at: [Training Videos](/docs/blh-120-videos.html)
  and on YouTube at: <https://www.youtube.com/playlist?list=PL_500m6Wb0whyomViH6VkfGN5Olro_ihM>
 
 ------------------------------------------------------------------------
