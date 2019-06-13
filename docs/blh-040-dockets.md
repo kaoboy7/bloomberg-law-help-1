@@ -1,9 +1,64 @@
 ---
 title: Dockets
 ---
-# Dockets Overview
+## Dockets Overview
 
-_Bloomberg Law_ gives you the freedom to be proactive with unrestricted, unlimited dockets searches and alerts, making it easy and cost effective to include dockets in your regular research process. Monitor new actions, identify business opportunities, conduct due diligence or just expand your legal research in federal, state and international courts.
+_Bloomberg Law_ gives you the freedom to be proactive with unrestricted, unlimited dockets searches and alerts, making it easy and cost effective to include dockets in your regular research process. 
+
+Monitor new actions, identify business opportunities, conduct due diligence or just expand your legal research in federal, state and international courts.
+
+## Docket Key®
+
+**Bloomberg Law's®** proprietary **Docket Key®** docket filing classification system is a unique and innovative system that identifies and classifies entries on a
+docket sheet. 
+
+**Docket Key** makes locating underlying filings easy, quick, and
+precise by targeting 20 categories, including motions, briefs, orders,
+and more!
+
+
+This technology guarantees access to the filings you are looking for
+instead of those that mention the keyword.
+
+------------------------------------------------------------------------
+
+### **Docket Key** is available in the following courts:
+
+![DK Court May 19b](/images/docket-courts.png "DK Court May 19b")
+
+------------------------------------------------------------------------
+
+### Advanced Search Functionality
+
+The Filing Type filter targets your search to specific filing types and docket entries for civil cases only
+
+![DK1](/images/docket-key-1.png "DK1")
+
+Use the Apply Date To toggle to search either by the date the docket was
+opened or the date the entry was filed.
+
+![DK2b](/images/dkb2.jpg "DK2b")
+
+------------------------------------------------------------------------
+
+### Navigate to Matching Entries Directly from the Search Results
+
+1.  Go directly to the full Docket Sheet
+2.  View or Request a PDF document directly from the search results
+3.  Go directly to a filtered view of the docket showing the entries
+    matching your search
+
+![DK3b](/images/dkb3.jpg "DK3b")
+
+------------------------------------------------------------------------
+
+### Filter Docket Sheet by Filing Type and Date
+
+1.  Filter the Docket Sheet or include more filing types by using either
+    Filing Type or Entry Date
+2.  Click to Expand to see unmatched entries
+
+![DK4b](/images/dkb4.jpg "DK4b")
 
 ## Specialized Dockets Search
 
@@ -253,8 +308,8 @@ name, coverage type, and dates of coverage.
 
 ## Docket Pleadings
 
-_Bloomberg Law_\
-**View** **Request** _Bloomberg Law_  
+Many dockets include a list of associated pleadings, some of which may be available to view on _Bloomberg Law_.  
+ Docket items with the action listed as **View** are immediately available when you click them. In addition, if they are filed in a searchable format, they are included in keyword searches. Docket items where the action is listed as **Request** have not yet been loaded into _Bloomberg Law_. Depending on the court, such documents can be requested electronically or via courier and additional charges may apply. 
 
 \*Note, if you arrive at a docket via a keyword search and the keyword
 is included inside a viewable pleading, the  docket entry number and the

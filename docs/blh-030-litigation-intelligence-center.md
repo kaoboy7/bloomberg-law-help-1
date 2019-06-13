@@ -108,17 +108,10 @@ Dashboard](https://www.bloomberglaw.com/product/blic/litigation/analytics/new "L
 
 ### GO TO:
 
-[Company
-Analytics](/docs/blh-030-litigation-intelligence-center.html#company-analytics)
-
-[Law Firm
-Analytics](/docs/blh-030-litigation-intelligence-center.html#law-firm-analytics)
-
-[Judge
-Analytics](/docs/blh-030-litigation-intelligence-center.html#judge-analytics)
-
-[Attorney
-Analytics](/docs/blh-030-litigation-intelligence-center.html#attorney-analytics)
+[Company Analytics](/docs/blh-030-litigation-intelligence-center.html#company-analytics)  
+[Law Firm Analytics](/docs/blh-030-litigation-intelligence-center.html#law-firm-analytics)  
+[Judge Analytics](/docs/blh-030-litigation-intelligence-center.html#judge-analytics)  
+[Attorney Analytics](/docs/blh-030-litigation-intelligence-center.html#attorney-analytics)
 
 ## Company Analytics
 

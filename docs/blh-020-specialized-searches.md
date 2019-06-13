@@ -88,10 +88,7 @@ U.S. federal and state court opinions.
  
 
 Enter “court opinions” in the Search Bar and select **Court Opinion
-Search** from the auto-complete drop-down
-menu.  
-**  
-**
+Search** from the auto-complete drop-down menu.  
 
 ![CourtOpinionSearchsearchbar](/images/ss_Court_Opinion_Search_search_bar.jpg
 "CourtOpinionSearchsearchbar")
