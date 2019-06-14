@@ -50,7 +50,6 @@ The **Document Options** tab displays the same options as the **Print/Download**
 Note: When you choose to print, download or email court opinions, the Document Options tab displays options for, **Court Opinion and BCite, Court Opinion only**, or **BCite only**. 
 
 ![Print Dialog Email Generic](/images/print-dialog-email_email-generic.jpg)
-
 ![Print Dialog Email Doc Options Generic](/images/print-dialog-email_doc-options-generic.jpg)
 
 When printing, downloading and emailing a specific **EDGAR** filing choose to export the **Form only**, **Forms & Exhibits**, or **Exhibits only**. You can also choose which exhibits to print.
@@ -76,7 +75,6 @@ Run a search.
 The **Print/Download** dialog box displays various content, page range and formatting options. For Email options, click the **Document Options** tab and select the relevant options.  
 
 ![Print Download Results List](/images/print-download_results-list.jpg)
-
 ![Email Dialog Box](/images/email-dialog-box.jpg)
 
 **SAVE SEARCH RESULTS**

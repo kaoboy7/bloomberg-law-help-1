@@ -173,6 +173,9 @@ Analyzer**.
 
  ![DealAnalyzer5(1)](/images/tlaw_Deal_Analyzer_5(1).jpg "DealAnalyzer5(1)")
 
+# Related Topics
+[Draft Analyzer](/docs/blh-050-corporate-and-transactional.html#draft-analyzer)
+
 ## EDGAR Search
 
 ### How to Access the Specialized EDGAR Search

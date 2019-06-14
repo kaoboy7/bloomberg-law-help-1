@@ -159,8 +159,7 @@ Docket**.
 
 ![TrackDocketlink](/images/dock_Track_Docket_link.jpg "TrackDocketlink")
 
-The Select a desired **Frequency** from the drop-down options.
-
+The Select a desired **Frequency** from the drop-down options.  
 If you are interested in tracking the docket several times during the
 day, select **Custom**. You can track a federal court docket up to 5
 times a day every day of the week. Click
@@ -174,8 +173,10 @@ created.
 ![Confirmationmessage](/images/dock_Confirmation_message.jpg "Confirmationmessage")
 
 Updates announcing changes to the docket are sent to your email address,
-see [View Updates to Tracked
-Dockets](https://www.bna.com/view-updates-tracked-dockets/ "View Updates to Tracked Dockets").   
+see [View Updates to Tracked Dockets](https://www.bna.com/view-updates-tracked-dockets/ "View Updates to Tracked Dockets").   
+
+# Related Topics
+[View Updates to Tracked Dockets](/docs/blh-040-dockets.html#view-updates-to-tracked-dockets)
 
 ## View Updates to Tracked Dockets
 
@@ -216,6 +217,9 @@ The Docket opens with the changes highlighted in
 red.
 
 ![Trackeddoc](/images/dock_Tracked_doc.jpg "Trackeddoc")  
+
+# Related Topics
+[Save a Search or Create an Alert](/docs/blh-040-dockets.html#save-a-search-or-create-an-alert)
 
 ## Breaking Complaints Overview
 

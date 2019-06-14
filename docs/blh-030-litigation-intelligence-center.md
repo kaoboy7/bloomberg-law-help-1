@@ -3,7 +3,7 @@ title: Litigation Intelligence Center
 ---
 # Litigation Intelligence Center
 
-**Search Court Opinions**
+### Search Court Opinions
 
 Find relevant cases by keyword and use Bloomberg Law's **BCITE** to
 check the status of a case. For more search options, use our [Court
@@ -12,7 +12,7 @@ Search](https://www.bloomberglaw.com/product/blic/blic_home/page/blic_home#advan
 
 ![BLIC1a](/images/blic_BLIC_1a.jpg "BLIC1a")
 
-**Find Docket by Docket Number**
+### Find Docket by Docket Number
 
 Enter a docket number and select a court to go to a specific docket. For
 more options use our [Dockets Advanced
@@ -20,7 +20,7 @@ Search](https://www.bloomberglaw.com/product/blic/blic_home/page/blic_home#advan
 
 ![BLIC2a](/images/blic_BLIC_2a.jpg "BLIC2a")
 
-**Find a Sample Brief**
+### Find a Sample Brief
 
 Use Bloomberg Law's **Docket Key<sup>℠</sup>** to find relevant briefs
 from 15 federal district courts. To search for pleadings or other court
@@ -29,7 +29,7 @@ Search](https://www.bloomberglaw.com/product/blic/blic_home/page/blic_home#advan
 
 ![BLIC3](/images/blic_BLIC_3.jpg "BLIC3")
 
-**Research Points of Law**
+### Research Points of Law
 
 Points of Law offers a more efficient way to conduct case law research
 through machine learning. Find language critical to the court's holding,
@@ -38,14 +38,14 @@ law.
 
 ![BLIC4](/images/blic_BLIC_4.jpg "BLIC4")
 
-**Find Court Opinions by Citation**
+### Find Court Opinions by Citation
 
 Enter a citation or multiple citations to pull up specific court
 opinions.
 
 ![BLIC5a](/images/blic_BLIC_5a.jpg "BLIC5a")
 
-**Find Laws & Regulations**
+### Find Laws & Regulations
 
 Use Bloomberg Law's **Smart Code℠** to review the language of a statute,
 rule or regulation and identify court opinions discussing the relevant
@@ -54,7 +54,7 @@ section.
 
 ![BLIC6a](/images/blic_BLIC_6a.jpg "BLIC6a")
 
-**Judicial Analytics**
+### Judicial Analytics
 
 View powerful analytics for federal district court judges, including how
 often a judge grants certain motions and is affirmed or reversed on
@@ -64,7 +64,7 @@ Dashboard](https://www.bloomberglaw.com/product/blic/litigation/analytics/new "L
 
 ![BLIC7](/images/blic_BLIC_7.jpg "BLIC7")
 
-**Advanced Searches & Practice Tools**
+### Advanced Searches & Practice Tools
 
 * **Dockets Advanced Search:** Find the dockets you need with our
   powerful dockets search.
@@ -76,7 +76,7 @@ Dashboard](https://www.bloomberglaw.com/product/blic/litigation/analytics/new "L
 
 ![BLIC8a](/images/blic_BLIC_8a.jpg "BLIC8a")
 
-**News**
+### News
 
 * Class Action
 * E-Discovery & Legal Tech
@@ -304,7 +304,7 @@ judge.
 
 ![JProfile](/images/blic_J_Profile.jpg "JProfile")
 
-**Motion Outcomes**
+### Motion Outcomes
 
 See how a judge rules on motions to dismiss, motions for summary
 judgment, and motions for class certification.  Filters decisions by
@@ -313,7 +313,7 @@ opinions.
 
 ![JMotions](/images/blic_J_Motions.jpg "JMotions")
 
-**Appeal Outcomes**
+### Appeal Outcomes
 
 See how often a judge is affirmed, reversed or affirmed/reversed in
 part.  Quickly access the judge’s decisions that were appealed and
@@ -322,7 +322,7 @@ topic.
 
 ![JAppeals](/images/blic_J_Appeals.jpg "JAppeals")
 
-**Length of Case**
+### Length of Case
 
 See how long cases generally take before a judge.  Narrow the cases by
 case type to zero in on the case types relevant to you (e.g., employment
@@ -331,7 +331,7 @@ cases)
 
 ![JLength](/images/blic_J_Length.jpg "JLength")
 
-**Appearance & Case Types**
+### Appearance & Case Types
 
 See what law firms and companies have appeared most frequently before a
 judge.  View the case types most often handled by a
@@ -375,7 +375,7 @@ download.
 
 ![JPrintScreen](/images/blic_J_Print_Screen.jpg "JPrintScreen")
 
-**Comparative Analytics**
+### Comparative Analytics
 
 In addition, Bloomberg Law’s Comparative Analytics tool enables users to
 easily compare a judge’s motion and appeal outcomes and length of case
@@ -410,7 +410,7 @@ present. Criminal dockets and prisoner petitions are not included.
 
 -----------------------------------------
 
-**Attorney Selection**
+###  Selecting Attorney
 
 **1. Select the Attorney tab**
 
@@ -424,7 +424,7 @@ present. Criminal dockets and prisoner petitions are not included.
 
 ![AA3](/images/blic_AA_3.jpg "AA3")  
 
-**Chart Type**
+### Chart Type
 
 Using Attorney Analytics, users are able to see the companies the
 attorney has represented in federal court, the types of cases the

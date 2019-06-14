@@ -328,12 +328,9 @@ File**.
 
 ![Uploadfile1](/images/SfLandW_Upload_file_1.jpg "Uploadfile1")
 
-The **Upload File** dialog displays. 
-
-Browse to locate the file to be added.
-
-Click
-**UPLOAD**.
+The **Upload File** dialog displays.  
+Browse to locate the file to be added.  
+Click **UPLOAD**.
 
 ![Uploadfile2](/images/SfLandW_Upload_file_2.jpg "Uploadfile2")
 
