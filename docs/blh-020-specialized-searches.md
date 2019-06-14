@@ -378,8 +378,8 @@ semicolons.
 
  
 
-**Create a [Search
-Alert](/docs/blh-010-search-and-browse.html#saved-searches-alerts "Search Alert ") **
+The link to **Create a** [Search Alert](/docs/blh-010-search-and-browse.html#saved-searches-alerts "Search Alert")
+displays at the bottom of the template. 
 
 ## Patent Assignments
 

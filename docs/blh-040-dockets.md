@@ -143,6 +143,7 @@ while an alert has a frequency that is set to, **As Available**,
    **Automatically Updated** under the **Docket Currency** section on
    the right of the docket. You may want to track these dockets to
    monitor updates as they occur.
+   ![updatedocket3](/images/dock_updatedocket3.PNG "updatedocket3")
 
 ## Track a Docket
 
@@ -284,6 +285,10 @@ channels.
 
 ![BreakingComplaintsemail](/images/dock_Breaking_Complaints_email.jpg "BreakingComplaintsemail")
 
+# Related Topics
+
+[Save a Search or Create an Alert](/docs/blh-040-dockets.html#save-a-search-or-create-an-alert)
+
 ## Docket Coverage - U.S. and International
 
 To examine the scope of the dockets available on _Bloomberg Law_ use the
@@ -302,7 +307,7 @@ name, coverage type, and dates of coverage.
 4. To view the costs to obtain the dockets, click the **View Price
    List** link.
 
- ![Coverage1A](/images/dock_Coverage_1A.jpg "Coverage1A")
+![Coverage1A](/images/dock_Coverage_1A.jpg "Coverage1A")
 
 ![Coverage2](/images/dock_Coverage_2.jpg "Coverage2")
 
