@@ -1780,7 +1780,7 @@ Leasing](https://www.bloomberglaw.com/page/stepxstep_capital_equipment_leasing "
 ### POINTS OF LAW
 
 In response to feedback from the field, the options for searching
-*Bloomberg Law’s**\*Points of Law** by jurisdiction have been expanded to
+*Bloomberg Law’s Points of Law* by jurisdiction have been expanded to
 include individual courts. When accessing [Points of Law
 Search](https://www.bloomberglaw.com),
 users now have the option to select individual courts, or logical

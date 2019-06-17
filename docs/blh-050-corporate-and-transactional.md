@@ -218,9 +218,9 @@ deselect. 
    search terms to appear only in the underlying forms. Select
    **Exhibits Only** if you want your search terms to appear only in
    exhibits, and select **Forms & Exhibits** if you want your search
-   terms to appear in both**.** Search Results will contain the
+   terms to appear in both.  Search Results will contain the
    underlying filings if you select **Forms & Exhibits** or **Forms
-   Only**. When **Exhibits Only** is selected,\*\* \*\*search results
+   Only**. When **Exhibits Only** is selected, search results
    contain the exhibits themselves. Click the exhibit link in the
    results list and go directly to that exhibit.
 2. **FORMS** - To search for specific SEC forms, enter terms in the
@@ -351,7 +351,7 @@ whole document or single clause search.  
 Select one or more document types to run a search. The selected document
 types display below the Doc Type list. In the **Document Type** text box
 begin typing the document type and then select from the auto-complete
-drop-down menu, or click **\*\*Browse Full List \*\***and scroll through the
+drop-down menu, or click **Browse Full List** and scroll through the
 list of document types and make the selection. 
 
 To remove a selection click the checkbox next to the document type in

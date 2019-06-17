@@ -36,7 +36,7 @@ x**![Iconredx](/images/ss_Icon_red_x.jpg
     with a particular agency. To narrow your search to documents
     originating from a particular agency, begin typing the name in this
     field and select it from the auto-complete drop-down menu.
-2.  Search By** Federal Register Page Citation**: You can retrieve
+2.  Search By **Federal Register Page Citation**: You can retrieve
     Federal Register documents via citation from the GO Bar Citation
     Search as well as from the Page Citation field.
 3.  Search By **RIN**: Enter a Regulation Identifier Number (RIN) to
@@ -115,7 +115,7 @@ click **Search**. 
     play/s a significant role in the court’s determination.
 5.  **Party:** Use this field to search Bloomberg Law’s court opinion
     database by party name.
-6.  **Case Name: ** Use this field to search Bloomberg Law’s court
+6.  **Case Name:** Use this field to search Bloomberg Law’s court
     opinion database by case name.
 7.  **Judge:** Enter a judge’s last name in this field to search
     Bloomberg Law’s court opinion database by judge.
