@@ -15,7 +15,8 @@ module.exports = {
         ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
         ['link', { rel: 'apple-touch-icon', href: `/icons/apple-touch-icon-152x152.png` }],
         ['meta', { name: 'msapplication-TileImage', content: '/icons/msapplication-icon-144x144.png' }],
-        ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
+        ['meta', { name: 'msapplication-TileColor', content: '#000000' }],
+        ['script', {src: 'https://assets.adobedtm.com/launch-EN164714b0147e4e5b8dce3e9da522ec62.min.js', async: 'async'}]
     ],
     serviceWorker: true,
     theme: 'bna',
