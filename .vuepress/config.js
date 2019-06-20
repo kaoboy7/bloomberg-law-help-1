@@ -22,12 +22,9 @@ module.exports = {
     theme: 'bna',
     themeConfig: {
         docsDir: 'docs',
-
+        activeHeaderLinks: false,
         sidebar: ['/docs/*',],
-
         logo: "/header-logo.png",
-
         alternateHomeUrl: "http://www.bloomberglaw.com/",
-        
     }
 }
