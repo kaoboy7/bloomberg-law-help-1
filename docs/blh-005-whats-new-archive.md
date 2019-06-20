@@ -107,7 +107,7 @@ Court](https://www.bloomberglaw.com/browser/105.550224 "Defense of Class Action 
 Law](https://www.bloomberglaw.com/browser/105.531812 "Federal Health Care Discrimination Law")
 
 • [ERISA: Department of Labor Investigations, Enforcement, and
-Litigation](https://www.bloomberglaw.com/browser/105.549328 "ERISA: Department of Labor Investigations, Enforcement, and Litigation")
+Litigation](https://www.bloomberglaw.com/start "ERISA: Department of Labor Investigations, Enforcement, and Litigation")
 
 • [Evidence in Patent
 Cases](https://www.bloomberglaw.com/browser/105.550088 "Evidence in Patent Cases")
@@ -119,7 +119,7 @@ Discrimination
 Law](https://www.bloomberglaw.com/browser/105.550090 "McDonnell Douglas: The Most Important Case in Employment Discrimination Law")
 
 • [Vaccine, Vaccination, and Immunization
-Law](https://www.bloomberglaw.com/product/blaw/toc/source/105.550642/3914 "Vaccine, Vaccination, and Immunization Law")
+Law](https://www.bloomberglaw.com/start "Vaccine, Vaccination, and Immunization Law")
 
 - - -
 
@@ -470,7 +470,7 @@ will be added later in 2018.
 ### ENHANCED SEARCH FUNCTIONALITY
 
 \
-[Global Patents Search](https://www.bloomberglaw.com)
+[Global Patents Search](https://www.bloomberglaw.com/product/ip/page/pts_home#advanced-search/global_patents_search)
 has been added to the [Patents & Trade Secrets Practice
 Center](https://www.bloomberglaw.com/product/ip/page/pts_home "Patents & Trade Secrets Practice Center"),
 providing practitioners the critical information they need to understand
@@ -1176,7 +1176,7 @@ page with a growing library of practical guidance suites. 
 **Privacy & Data Security**
 
 The Privacy & Data Security Practice Center continues to add [Domestic
-Profiles](https://www.bloomberglaw.com),
+Profiles](https://www.bloomberglaw.com/product/privacy/page/pds_home),
 a new collection of state-specific summaries that pinpoint data privacy
 laws by function, topic, and sector and feature a local practitioner’s
 perspective on the current enforcement in the state.  To date, 25
@@ -1207,7 +1207,7 @@ analysis assessing the state of the field.
 
 In advance of the retirement of the Daily Report for Executives, we have
 built a [Daily Report for Executives
-Dashboard](https://www.bloomberglaw.com/product/blaw/business_intelligence_center/templates/MzY5MjU4 "Daily Report for Executives Dashboard")
+Dashboard](https://www.bloomberglaw.com/start "Daily Report for Executives Dashboard")
 that can be found on the Business Intelligence Center under “Practice
 Specific Templates.”  This template replicates the kind of content that
 is currently found in the Daily Report for Executives.
@@ -1233,7 +1233,7 @@ for yet unforeseen applications.
 Bloomberg Law has expanded greatly its offering of ABA publications
 including the recent addition of the titles listed below that may be
 accessed from the [Reference Materials search
-window](https://www.bloomberglaw.com):  
+window](https://www.bloomberglaw.com/start#advanced-search/edit/books):  
 
 * A Practical Guide to Commercial Real Estate Transactions
 * ABA Automobile Finance Dictionary
@@ -1611,7 +1611,7 @@ litigation, news, and other resources relating to this hot-button issue.
 ### Labor & Employment Practice Center
 
 New
-[forms](https://www.bloomberglaw.com)
+[forms](https://www.bloomberglaw.com/product/labor/le_home/toc/source/105.499994#58635186)
 and
 [checklists](https://www.bloomberglaw.com/product/labor/le_home/toc/source/105.499828 "checklists ")
 have been added to the Labor & Employment Practice Center including 16
@@ -1729,7 +1729,7 @@ searching, including:
   suggestion for: American Law Institute (ALI) - Restatement (Second)
   of Contracts.  
 * Updated [Reference
-  Materials ](https://www.bloomberglaw.com)search:
+  Materials ](https://www.bloomberglaw.com/start#advanced-search/edit/books)search:
   providing for a search across all books content (manuals,
   portfolios, books & treatises).  An additional enhancement allows
   users to search across the full text of content, as well as over
@@ -1782,7 +1782,7 @@ Leasing](https://www.bloomberglaw.com/page/stepxstep_capital_equipment_leasing "
 In response to feedback from the field, the options for searching
 *Bloomberg Law’s Points of Law* by jurisdiction have been expanded to
 include individual courts. When accessing [Points of Law
-Search](https://www.bloomberglaw.com),
+Search](https://www.bloomberglaw.com/start#advanced-search/points_of_law_search),
 users now have the option to select individual courts, or logical
 groupings of courts, offering the same flexibility found in _Bloomberg
 Law’s_ Court Opinions Search.
