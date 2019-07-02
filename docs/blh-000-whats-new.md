@@ -1,6 +1,8 @@
 ---
 title: Whats's New
 ---
+### [Subscribe to our monthly What’s New Update](https://pro.bloomberglaw.com/whats-new-opt-in/ "Subscribe to our monthly What’s New Update")
+
 ## June 2019
 
 ### PRACTICAL GUIDANCE
