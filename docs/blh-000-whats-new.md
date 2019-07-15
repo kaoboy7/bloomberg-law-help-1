@@ -3,6 +3,66 @@ title: Whats's New
 ---
 ### [Subscribe to our monthly What’s New Update](https://pro.bloomberglaw.com/whats-new-opt-in/ "Subscribe to our monthly What’s New Update")
 
+## July 2019
+
+### SEARCH: ENHANCEMENTS TO AUTOCOMPLETE FEATURE
+
+
+Subscribers
+can now find all of our Chart Builders, In Focus Pages, and Practical Guidance
+documents through the autocomplete feature when searching Bloomberg Law. Simply
+type the name of a Chart Builder, In Focus page, or Practical Guidance document
+and relevant options will appear directly under the Go Bar.
+
+The pages and documents added to the autocomplete bar include 45 In Focus pages, 183
+Chart Builders, and 4700+ Practical Guidance documents. Practical Guidance
+documents will be available as autocomplete options in the Transactional and
+Litigation Intelligence Centers, as well as in the full search of the Bloomberg
+Law platform. In Focus pages and Chart Builders will appear as options in all
+Practice Center searches.  
+ 
+
+See our homepages for [Practical Guidance](https://www.bloomberglaw.com/product/blpg/page/pg_home), [In Focus Resources](https://www.bloomberglaw.com/page/infocus_home), and [Chart Builders](https://www.bloomberglaw.com/page/chart_builders_home). 
+
+
+### IN FOCUS RESOURCES
+
+**In Focus: Telephone Consumer Protection Act** 
+
+The [In Focus: Telephone Consumer Protection Act](https://www.bloomberglaw.com/product/BLTT/page/infocus_telephone_consumer_protection_act)
+provides coverage of news, and legal and legislative developments on the issue
+of unwanted telephone calls, including robocalls. The content includes FCC and
+FTC regulations, orders, proposals, federal caselaw including U.S. Supreme
+Court docket watch, proposed federal legislation, and practitioner insights.
+Planned enhancements include coverage of state caselaw as well as enacted and
+proposed state legislation. It is available on the [In Focus homepage](https://www.bloomberglaw.com/page/infocus_home) as well as the [Tech & Telecom Practice Center](https://www.bloomberglaw.com/product/tech/page/tt_home).
+
+### CHART BUILDERS
+
+**Accountable Care Organizations**
+
+ 
+Federal content has been added to the [Accountable Care Organizations](https://www.bloomberglaw.com/product/health/bbna/chart/43/208) Chart Builder. This new information covers the Medicare Shared Savings Program, which has allowed ACOs
+to bill Medicare for services. New Chart Builder coverage includes both the federal
+statute and the regulations governing the program and it is the last of the
+nine federal additions to the [Health Law Chart Builders](https://www.bloomberglaw.com/product/health/health_home/page/health_chart_builders). This chart is located on the [Health Practice Center](https://www.bloomberglaw.com/product/health/page/health_home) and on the [Chart Builders](https://www.bloomberglaw.com/page/chart_builders_home) homepage.
+
+
+### PRACTICE CENTERS
+
+**Labor & Employment**
+
+A new International White Paper – [Gender Pay Gap Reporting Obligations](https://www.bloomberglaw.com/product/labor/document/25306548776)
+– has been added to the [International](https://www.bloomberglaw.com/product/labor/page/le_international) page on the [Labor & Employment Practice Center](https://www.bloomberglaw.com/product/labor/page/le_home).
+The gender pay gap is an issue common to workplaces across the world, but
+methods of tackling it vary widely. Emanuela Nespoli, Partner, Toffoletta De
+Luca Tamajo e Soci, reports the result of a multijurisdictional survey on
+gender pay gap reporting obligations conducted by Ius Laboris, the largest
+international alliance of legal specialists in labor, employment, and pension
+law.
+
+ 
+
 ## June 2019
 
 ### PRACTICAL GUIDANCE
