@@ -26,5 +26,6 @@ module.exports = {
         sidebar: ['/docs/*',],
         logo: "/header-logo.png",
         alternateHomeUrl: "http://www.bloomberglaw.com/",
+        nav: [ { text: 'Contact Us', link: 'https://www.bloomberglaw.com/help_chat' }, ]
     }
 }

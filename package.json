@@ -18,9 +18,8 @@
     "bnacomponents": "^1.0.3",
     "browserify": "^16.2.3",
     "cpy-cli": "^2.0.0",
-    "editorcomponents": "^1.0.2",
+    "editorcomponents": "^1.0.3",
     "eslint": "^5.14.1",
-    "npm": "^6.8.0",
-    "vuepress-theme-bna": "1.1.5"
+    "vuepress-theme-bna": "1.1.6"
   }
 }
