@@ -4,8 +4,8 @@ home: true
 pageClass: front
 actionText: Browse All Help
 actionLink: /docs/bla-000.html
-contactText: Contact Us
-contactLink: https://www.bna.com/bloomberglaw/feedback
+contactText: Live Chat
+contactLink: https://www.bloomberglaw.com/help_chat
 ---
 |Browse Help   |     |
 |:-------------|-----|
