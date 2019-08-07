@@ -3,6 +3,84 @@ title: Whats's New
 ---
 ### [Subscribe to our monthly What’s New Update](https://pro.bloomberglaw.com/whats-new-opt-in/ "Subscribe to our monthly What’s New Update")
 
+## August 2019
+
+### PRACTICAL GUIDANCE
+ 
+**Communications Law**
+
+A new collection of Practical Guidance, [Communications Law](https://www.bloomberglaw.com/product/BLTT/page/pg_communications_law), including
+overviews and checklists provides guidance on assignments and transfers of wireless services and on complying with FCC regulations governing the treatment of Customer Proprietary Network Information (CPNI). The new collection can be found on the
+[Tech & Telecom](https://www.bloomberglaw.com/product/tech/page/tt_home) PracticeCenter’s homepage, the 
+[Communications Law](https://www.bloomberglaw.com/product/tech/tt_home/page/communications_practice) practice page,
+and on the [Practical Guidance](https://www.bloomberglaw.com/product/blpg/page/pg_home) homepage.
+
+**Privacy & Data Security**  
+
+A new comparison tool, [LGPD vs. GDPR](https://www.bloomberglaw.com/product/privacy/document/X7QEVKSK000000), comparing aspects
+of Brazil’s new data protection law to the GDPR has been added to the Privacy
+& Data Security Practice Center. The comparison chart is helpful for
+practitioners seeking guidance related to processing personal data in Brazil,
+EU countries, and other GDPR-covered jurisdictions. It is available on the
+[Privacy & Data Security: International Resources](https://www.bloomberglaw.com/product/privacy/page/secondary_page_international_privacy)
+page under International Practical Guidance. 
+
+**Patents**
+
+A new collection of Practical Guidance, Patentability Principles, has been added to the 
+[Practical Guidance: Patent Filing Considerations](https://www.bloomberglaw.com/product/ip/pts_home/page/pts_pg_patent_prefiling_considerations) page on
+the Patents & Trade Secrets Practice Center. This collection includes overviews as well as a flowchart on 
+[2019 Revised Patent Subject-Matter Eligibility Guidance](https://www.bloomberglaw.com/product/ip/pts_home/document/X8E9MBCS000000).  
+
+ 
+### IN FOCUS
+ 
+**In Focus: Cannabis**
+
+Major enhancements have been made to the 
+[In Focus: Cannabis](https://www.bloomberglaw.com/product/health/page/infocus_medical_marijuana) page, including
+the addition of law firm client alerts, Chart Builders featuring Labor &
+Employment material, transactional resources, cannabis-related patents, and tax
+developments. News searches have been included to show more legal cannabis
+news, current Insights articles, and U.S. & Canada cannabis company
+profiles. In Focus: Cannabis is available on the 
+[Health Practice Center](https://www.bloomberglaw.com/product/health/page/health_home), the 
+[Transactional Intelligence Center](https://www.bloomberglaw.com/product/btic/page/txl_home),
+and the [In Focus](https://www.bloomberglaw.com/page/infocus_home) homepage.
+
+
+### CHART BUILDERS
+
+**Banking & Finance**
+
+A new Chart Builder, [General Lending: Licensing Requirements](https://www.bloomberglaw.com/product/bankfinance/bbna/chart/40/10036),
+summarizes the license application process in all 50 states and the District of
+Columbia for generally-applicable lending licenses. Existing Banking Chart
+Builders cover the licensing requirements for specific types of loans such as
+payday loans, title loans, and high-interest small dollar loans. The new
+General Lending Chart Builder covers loans that do not fit into those narrow
+categories. It will provide useful information for any non-bank lender seeking
+to comply with the patchwork of state licensing requirements that apply to the
+lending industry. It is available on the 
+[Banking & Finance Practice Center](https://www.bloomberglaw.com/product/bankfinance/bf_states/page/bf_statelaws_charts) and the 
+[Chart Builder](https://www.bloomberglaw.com/page/chart_builders_home)s homepage.
+
+### PRACTICE CENTERS
+
+**Labor & Employment**
+
+A new International White Paper, [The Impact of Mass Layoffs on Foreign Nationals](https://www.bloomberglaw.com/product/labor/le_international/document/25321226280), discusses the implications of layoffs on foreign national employees including their
+potential impact on immigration status. The article by attorney Miatrai Brown,
+Ogletree Deakins, is available on the Labor & Employment Practice Center’s 
+[International](https://www.bloomberglaw.com/product/labor/page/le_international) page.
+
+### PORTFOLIOS
+
+Users now have the ability to print any Bloomberg Law 
+[Portfolio](https://www.bloomberglaw.com/nav_content_menu/105.456026)
+in its entirely. Previously, this functionality was available only for Tax
+Portfolios within Tax & Accounting products.
+
 ## July 2019
 
 ### SEARCH: ENHANCEMENTS TO AUTOCOMPLETE FEATURE
