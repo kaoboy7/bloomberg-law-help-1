@@ -78,7 +78,7 @@ Ogletree Deakins, is available on the Labor & Employment Practice Center’s
 
 Users now have the ability to print any Bloomberg Law 
 [Portfolio](https://www.bloomberglaw.com/nav_content_menu/105.456026)
-in its entirely. Previously, this functionality was available only for Tax
+in its entirety. Previously, this functionality was available only for Tax
 Portfolios within Tax & Accounting products.
 
 ## July 2019
