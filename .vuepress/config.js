@@ -25,6 +25,11 @@ module.exports = {
         sidebar: ['/docs/*',],
         logo: "/header-logo.png",
         alternateHomeUrl: "http://www.bloomberglaw.com/",
+        demoUrl: "https://pro.bloomberglaw.com/request-a-demo/?trackingcode=BLAW193500&utm_source=producthelp&utm_medium=referral",
+        demoUrlText: "Request Demo",
+        demoUrlIcon: "/demo-icon.png",
+        marketingUrl: "https://pro.bloomberglaw.com/",
+        marketingUrlText: "pro.bloomberglaw.com",
         nav: [ { text: 'Live Chat', link: 'https://www.bloomberglaw.com/help_chat' }, ]
     }
 }
