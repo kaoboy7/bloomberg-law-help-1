@@ -3,6 +3,95 @@ title: Whats's New
 ---
 ### [Subscribe to our monthly What’s New Update](https://pro.bloomberglaw.com/whats-new-opt-in/ "Subscribe to our monthly What’s New Update")
 
+## September 2019
+
+### PRACTICAL GUIDANCE
+
+**Litigation**
+
+New Practical Guidance -- [Threshold Issues & Defenses](https://www.bloomberglaw.com/product/BLPG/page/blic_pg_threshold_issues) 
+-- addresses critical issues that should be considered during the
+initial stages of litigation, including topics such as justiciability
+(standing, mootness, ripeness, political question), preemption, choice
+of law, preclusion (law of the case, res judicata, collateral estoppel),
+sovereign immunity, abstention, and arbitration. Threshold Issues &
+Defenses is accessible on the [Litigation Resources page](https://www.bloomberglaw.com/product/blic/blic_home/page/blic_pg_library) 
+and the [Practical Guidance homepage](https://www.bloomberglaw.com/product/blpg/page/pg_home).
+
+**Environmental & Safety**
+
+Five new Practical Guidance suites on [Air Quality](https://www.bloomberglaw.com/product/es/es_home/page/es_pg_air_quality), 
+[Water Quality & Wetlands](https://www.bloomberglaw.com/product/es/es_home/page/es_pg_wq_wetlands), 
+[Chemical Regulation & Right-to-Know](https://www.bloomberglaw.com/product/es/es_home/page/es_pg_chemicals_mgmt), 
+[Waste Management](https://www.bloomberglaw.com/product/es/es_home/page/es_pg_waste_mgmt), 
+and [Environmental Disclosures, Transactions & Brownfields](https://www.bloomberglaw.com/product/BLPG/page/es_pg_disclosures_brownfields) 
+have been added to the [Environmental & Safety Practice Center](https://www.bloomberglaw.com/product/es/page/es_home) 
+and the [Practical Guidance homepage](https://www.bloomberglaw.com/product/blpg/page/pg_home). 
+Each Practical Guidance suite is organized by relevant subtopics and
+includes helpful overviews, forms, glossaries, timelines, checklists,
+professional perspectives, and state Chart Builders.
+
+**Labor & Employment**
+
+New, robust Practical Guidance pages are replacing the older
+step-by-step approach, presenting materials in a user-friendly format
+that includes both Practical Guidance documents and state Chart
+Builders. This enhancement streamlines the presentation of Practical
+Guidance by consolidating related Practical Guidance tools, forms, and
+checklists into topic pages with relevant subtopics. For instance, the
+[Disability Discrimination & Accommodation](https://www.bloomberglaw.com/product/labor/le_home/page/le_pg_disability) 
+topic page replaces four step-by-step pages -- Assess Undue Hardships
+under the ADA; Comply with ADA Reasonable Accommodation Rules; Examine
+if a Worker Poses a Direct Threat (ADA); and Understand the Interplay
+between FMLA & ADA.
+
+Two such enhancements of Labor & Employment Practical Guidance have been
+rolled out to date with more planned in the coming weeks. See the
+[Labor & Employment Practical Guidance Library](https://www.bloomberglaw.com/product/labor/le_home/page/le_guidance) 
+as well as the [Practical Guidance home](https://www.bloomberglaw.com/product/blpg/page/pg_home)page.
+
+### IN FOCUS
+
+**In Focus: Deal Points**
+
+New 2019 M&A Deal Terms Studies have been added to [In Focus: Deal Points](https://www.bloomberglaw.com/product/securities/se_home/page/infocus_dealpoints).
+The documents have been created through an ongoing partnership with SRS
+Acquiom, the shareholder representative service that has one of the
+largest collections of private deal documents in the U.S. The new M&A
+Deal Terms Studies include:  
+[Purchase Price (2019)](https://www.bloomberglaw.com/product/corporate/document/XBF0VAK0000000?documentName=ORCA126978.PDF&fmt=pdf)  
+[Post-Closing Adjustments (2019)](https://www.bloomberglaw.com/product/corporate/document/X3B312Q4000000?documentName=ORCA126986.PDF&fmt=pdf)  
+[Earnouts (2019)](https://www.bloomberglaw.com/product/corporate/document/X69TJVC0000000?documentName=ORCA126989.PDF&fmt=pdf)  
+[Pervasive Qualifiers (2019)](https://www.bloomberglaw.com/product/corporate/document/X3EH4AG4000000?documentName=ORCA126990.PDF&fmt=pdf)  
+[Representations and Warranties Covenants (2019)](https://www.bloomberglaw.com/product/corporate/document/X3FGIUFK000000?documentName=ORCA126991.PDF&fmt=pdf)  
+[Closing Conditions (2019)](https://www.bloomberglaw.com/product/corporate/document/X5VV12P0000000?documentName=ORCA126992.PDF&fmt=pdf)  
+[Indemnification (2019)](https://www.bloomberglaw.com/product/corporate/document/X8MAB9J8000000?documentName=ORCA126993.PDF&fmt=pdf)  
+[Indemnification-Survival (2019)](https://www.bloomberglaw.com/product/corporate/document/XEJBG9ES000000?documentName=ORCA126994.PDF&fmt=pdf)  
+[Indemnification-Baskets & Caps (2019)](https://www.bloomberglaw.com/product/corporate/document/XCPH120000000?documentName=ORCA126995.PDF&fmt=pdf)  
+[Dispute Resolution (2019)](https://www.bloomberglaw.com/product/corporate/document/XEORBTKC000000?documentName=ORCA126996.PDF&fmt=pdf)  
+[Correlations (2019)](https://www.bloomberglaw.com/product/corporate/document/XCH95CIG000000?documentName=ORCA126997.PDF&fmt=pdf)  
+
+In Focus: Deal Points is available on the [Transactional Intelligence Center](https://www.bloomberglaw.com/product/btic/page/txl_home),
+the [Antitrust Practice Center](https://www.bloomberglaw.com/product/antitrust/page/at_home) and
+the [In Focus homepage](https://www.bloomberglaw.com/page/infocus_home).
+
+### PRACTICE CENTERS
+
+Labor & Employment
+
+A new International white paper -- [Global Efforts to Combat Human Rights Abuses in Supply Chains](https://www.bloomberglaw.com/product/labor/le_international/document/25373448744)
+-- discusses actions taken by the U.S. and other countries, as well as
+by nongovernmental organizations, to combat human rights abuses and the
+implications for businesses as they adapt and comply. Authored by
+[Robert P. Lewis](https://www.bakermckenzie.com/en/people/l/lewis-robert-p),
+[Kevin Coon](https://www.bakermckenzie.com/en/people/c/coon-kevin-b),
+and [Chris Burkett](https://www.bakermckenzie.com/en/people/b/burkett-christopher),
+all of [Baker McKenzie](https://www.bakermckenzie.com/en),
+the white paper is available on the
+[International](https://www.bloomberglaw.com/product/labor/page/le_international)
+page on the [Labor & Employment Practice Center](https://www.bloomberglaw.com/product/labor/page/le_home).
+
+
 ## August 2019
 
 ### PRACTICAL GUIDANCE
