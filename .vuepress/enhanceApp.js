@@ -1,4 +1,4 @@
-import { Youtube, Brightcove, IFrameWrapper, vimeo } from 'bnacomponents'
+import { Youtube, Brightcove, IFrameWrapper, vimeo, cloudapp } from 'bnacomponents'
 
 const bnacomponents = require('bnacomponents');
 
@@ -10,5 +10,6 @@ export default ({
         Vue.component('Youtube', Youtube),
         Vue.component('IFrameWrapper', IFrameWrapper),
         Vue.component('Brightcove', Brightcove),
-        Vue.component('vimeo', vimeo)
+        Vue.component('vimeo', vimeo),
+        Vue.component('cloudapp', cloudapp)
 }
