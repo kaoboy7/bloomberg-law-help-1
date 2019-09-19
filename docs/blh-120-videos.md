@@ -27,6 +27,14 @@ How to access, filter, search, set alerts and find specific filings.
 
 <!-- //////////////////////////////////////////////////////////////////////////////////// -->
 
+## Global Patents
+
+Learn how to search our database of more than 100 million patents from over 100 granting authorities.
+
+<vimeo source="360569752"></vimeo>
+
+<!-- //////////////////////////////////////////////////////////////////////////////////// -->
+
 ## News
 
 How to access and search enhanced news, set alerts, customize news feeds.
@@ -75,11 +83,11 @@ Access, search and use of the 1.2 million transactional documents.
 
 <!-- //////////////////////////////////////////////////////////////////////////////////// -->
 
-## Workflow Tools
+## Search
 
-How to use downloads, alerts, research trail and workspaces.
+Learn how to search effectively on Bloomberg Law to retrieve the information you need.
 
-<vimeo source="328225332"></vimeo>
+<vimeo source="360569732"></vimeo>
 
 <!-- //////////////////////////////////////////////////////////////////////////////////// -->
 
@@ -91,16 +99,8 @@ Identify the strength of court opinions that reference state and federal codes, 
 
 <!-- //////////////////////////////////////////////////////////////////////////////////// -->
 
-## Global Patents
+## Workflow Tools
 
-Learn how to search our database of more than 100 million patents from over 100 granting authorities.
+How to use downloads, alerts, research trail and workspaces.
 
-<vimeo source="360569752"></vimeo>
-
-<!-- //////////////////////////////////////////////////////////////////////////////////// -->
-
-## Search
-
-Learn how to search effectively on Bloomberg Law to retrieve the information you need.
-
-<vimeo source="360569732"></vimeo>
+<vimeo source="328225332"></vimeo>
