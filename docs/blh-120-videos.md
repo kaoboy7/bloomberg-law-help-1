@@ -75,7 +75,7 @@ Covering the value of each tool, how to access and search.
 
 <!-- //////////////////////////////////////////////////////////////////////////////////// -->
 
-## Precedence Search
+## Precedent Search
 
 Access, search and use of the 1.2 million transactional documents.
 
