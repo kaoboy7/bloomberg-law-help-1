@@ -3,6 +3,94 @@ title: Whats's New
 ---
 ### [Subscribe to our monthly What’s New Update](https://pro.bloomberglaw.com/whats-new-opt-in/ "Subscribe to our monthly What’s New Update")
 
+## October 2019
+
+### PODCAST – LAW X.0
+
+Bloomberg Law’s Analysis Unit has launched a new podcast, [Law X.0](https://www.bloomberglaw.com/product/blaw/search/results/39a836f68f77c5ea75965de176463618), uncovering and analyzing
+trends in litigation, regulation and compliance, transactions, legal
+operations, and additional areas. Podcast Law X.0 welcomes innovators and
+influencers in law and the legal industry. Each Law X.0 episode will be
+summarized and posted on Bloomberg Law’s [Analysis Channel](https://www.bloomberglaw.com/bloomberglawnews/bloomberg-law-analysis). A recent podcast – 
+[Is YouTube’s $170M FTC Settlement Kid Stuff](https://www.bloomberglaw.com/document/X1TD3SJC000000?bna_news_filter=bloomberg-law-analysis&jcsearch=BNA%25200000016d8877dfe2af7f8d77b0b80001#jcite)
+– includes an interview with Kristin Cohen, Assistant Director of Privacy &
+Identity Protection at the FTC.
+
+### PRACTICAL GUIDANCE  
+
+#### Corporate
+
+Selecting the form in which a business will
+operate is one of the most significant decisions a client starting a new
+business or continuing an existing one will have to make. New Practical
+Guidance – [Entity Formation Toolkit](https://www.bloomberglaw.com/product/BLCP/page/cp_formation_toolkit)– identifies the
+factors that will help your client make an informed decision and provides all
+the content necessary to form and document the new entity. The Entity Formation
+Toolkit is available on the Corporate Practice Center’s [Alternative Entities practice page](https://www.bloomberglaw.com/product/corporate/page/cp_altentities)
+and the [Transactional Intelligence Center](https://www.bloomberglaw.com/product/btic/page/txl_home).
+
+### PROFESSIONAL PERSPECTIVES
+
+ 
+
+Professional Perspectives are a type of
+Practical Guidance that discuss a legal development with current impact on
+clients or the practice of law. Recent additions include [CFIUS
+Contextual Control: Dealmaking Under FIRRMA](https://www.bloomberglaw.com/product/blaw/document/X9I4C9NC000000) (author John Lash of
+Control Risks); and [Mitigating the Risk
+of Enforcement Actions and Litigation from ‘No Poach’ and Other Agreements](https://www.bloomberglaw.com/document/X9QEJJE4000000)
+(authors Colin West, Brian Rocca, Mark Krotoski, Jordan Mundell of Morgan
+Lewis). 
+
+### NEWS
+
+Bloomberg Law news now has a new landing page that highlights
+our best legal news stories of the day, across all practice areas, available to
+the general public at [news.bloomberglaw.com](http://news.bloomberglaw.com/). We have
+also refreshed the landing pages for the individual news channels. See, for
+example, [HealthLaw & Business News](https://www.bloomberglaw.com/bloomberglawnews/health-law-and-business).
+
+### IN FOCUS
+
+#### In Focus: Opioid Litigation
+
+The [Opioid Litigation In-Focus](https://www.bloomberglaw.com/product/health/health_home/page/infocus_opioid_litigation) page
+now features a search of state court cases that have not yet been removed to
+federal court and included in Multidistrict Litigation. See [State Court Cases (Non-MDL)](https://www.bloomberglaw.com/product/health/health_home/search/results/69998bfbce3857a0b0042846543deb78) for a complete listing.
+
+
+### PRACTICE CENTERS
+
+#### Labor & Employment
+
+A new International White Paper, [Creating a Diverse and Inclusive Workforce at Home and Abroad](https://www.bloomberglaw.com/product/labor/le_international/document/25383457320), has been added to the [International](https://www.bloomberglaw.com/product/labor/page/le_international) page on the Labor
+& Employment Practice Center. Author Susan McCune, Director of Global
+Account Management at [SIRVA](https://www.sirva.com/en-us),
+discusses strategies for cultivating an inclusive and welcoming environment.  
+
+The Quarterly Union Wage Data Reports for [Quarter 1](https://www.bloomberglaw.com/product/labor/document/XFP7I59C000000) and 
+[Quarter 2](https://www.bloomberglaw.com/product/labor/document/XJODG60000000) are now live on the 
+[Labor and Employment Practice Center](https://www.bloomberglaw.com/product/labor/page/le_home). Bloomberg
+Law analyzed the wage increases negotiated in 394 collective bargaining
+agreements ratified in the first half of 2019. The wage data, covering a total
+of 558,330 union workers, were calculated using Bloomberg Law’s database of
+U.S. wage settlements.
+ 
+### TRAINING VIDEOS
+
+New training videos on Smart Code, Global Patents, and Using Search are available
+on [Bloomberg Law’s Help Center](/docs/blh-120-videos.html#workflow-tools). There are now 13 training videos covering the
+tools, content, features, and functionality that help make Bloomberg Law a
+unique legal and business research platform.
+
+### PRINT/DOWNLOAD: BOOKS & MANUALS
+
+Bloomberg Law complete subscribers now have the ability to download the entire document
+hierarchy – all the way up to full volumes – of Books & Manuals on
+Bloomberg Law. Previously, this functionality was available only for
+Portfolios.
+
+
 ## September 2019
 
 ### PRACTICAL GUIDANCE
