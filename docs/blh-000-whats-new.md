@@ -3,6 +3,104 @@ title: Whats's New
 ---
 ### [Subscribe to our monthly What’s New Update](https://pro.bloomberglaw.com/whats-new-opt-in/ "Subscribe to our monthly What’s New Update")
 
+## November 2019
+
+### IN FOCUS: LITIGATION FINANCE
+
+Litigation finance is a complex industry that is growing in scope and demand. It encompasses any transaction in which a
+legal claim is used as collateral to secure financing from an outside party. In
+commercial litigation funding, the litigation funder provides capital to a
+corporate claimant or law firm in exchange for an interest in the outcome of
+one or more cases.
+
+The new [In Focus: Litigation Finance](https://www.bloomberglaw.com/product/BLIC/page/in_focus_lit_finance)provides litigation,
+transactional, and broker-dealer resources, including an expanding collection
+of Practical Guidance. The page also highlights the results from [Bloomberg Law’s Commercial
+Litigation Finance Survey](https://src.bna.com/MxC), which examines the scope, process, and
+expectations around financing litigations.
+
+In Focus: Litigation Finance is available
+on the [Litigation Resources](https://www.bloomberglaw.com/product/blic/blic_home/page/blic_resources)
+page; on the [Corporate](https://www.bloomberglaw.com/product/corporate/page/cp_home),
+[Antitrust](https://www.bloomberglaw.com/product/antitrust/page/at_home),
+and [Banking & Finance](https://www.bloomberglaw.com/product/bankfinance/page/bf_home) practice centers; and on the [In Focus Resources](https://www.bloomberglaw.com/page/infocus_home) homepage. 
+
+### LAW X.0 PODCAST – Litigation Funding Matures & Hits Big Law
+
+A recent Law X.0 podcast – [Litigation Funding Matures & Hits Big Law](https://pro.bloomberglaw.com/law-xo-podcast/) – features founder and managing partner of Westfleet Advisors, Charles Agee, who discusses the maturing litigation finance industry, as well
+as how law firms can use litigation finance as a business development tool. 
+
+### BLOOMBERG LAW 2020
+
+[Bloomberg Law 2020](https://pro.bloomberglaw.com/bloomberg-law-2020/) sets the stage for the themes and topics that our legal
+analyst teams will be watching closely. Leveraging the latest data and
+technology, these pieces deliver expert perspectives on the legal industry.
+Currently, there are more than 30 articles available outside the paywall. The
+pieces cut across four major topics – Privacy & Data Security, Transactions,
+Future of Law, and ESG & Climate – and include links to related analysis
+and other content on the Bloomberg Law platform. 
+
+### CHART BUILDERS
+
+**<span style="text-decoration: underline">Corporate</span>**
+
+Four new corporate Chart Builders have been added to the
+Bloomberg Law platform.
+
+The [State Appraisal Rights](https://www.bloomberglaw.com/bbna/chart/75/10136) Chart Builder covers the process through
+which dissenting shareholders of a corporation being acquired in a merger or
+acquisition can request the acquiring corporation to assess and pay them fair
+value for their shares. The Chart Builder addresses topics such as which types
+of shares are covered by such laws, the required contents of notices from the
+corporation to its shareholders, and the consequences that dissent has on the
+rights of the shareholder. 
+
+The [State Appraisal Rights Timeline](https://www.bloomberglaw.com/bbna/chart/75/10138) Chart Builder covers the various
+steps in the appraisal rights process, with a focus on the timing, required
+contents, and consequences of certain legal filings and notices. 
+
+The [State Directors & Officers Indemnification & Insurance Laws](https://www.bloomberglaw.com/bbna/chart/75/10140)
+Chart Builder covers the state laws applicable to a corporation’s
+indemnification of its officers and directors from liability that results from
+actions taken in their official capacity with the corporation. The chart covers
+topics such as when indemnification is mandatory, when a corporation may
+purchase insurance for its directors and officers, and when a corporation may
+extend indemnification to employees and agents. 
+
+The[ State Directors & Officers Indemnification Industry Survey](https://www.bloomberglaw.com/bbna/chart/75/10137) Chart Builder covers the
+state laws applicable to indemnification of directors and officers by entities
+other than traditional corporations. Covered entities include nonprofit
+corporations, credit unions, LLCs, and fraternal benefit societies.
+
+All four Chart Builders can be found on the [Corporate Practice Center](https://www.bloomberglaw.com/product/corporate/page/cp_home), in the Chart Builder drop down, as well as in the
+Corporate & Securities drop down on [the
+Chart Builders & State Law Surveys](https://www.bloomberglaw.com/product/corporate/page/cp_statelaws_tools) page. You can also find them
+on the [Chart Builder homepage](https://www.bloomberglaw.com/page/chart_builders_home).
+
+**<span style="text-decoration: underline">Banking & Finance</span>**
+
+The [Money Transmission: Licensing Exemptions Chart Builder](https://www.bloomberglaw.com/product/bankfinance/bbna/chart/40/9460) on the [Banking
+& Finance Practice Center](https://www.bloomberglaw.com/product/bankfinance/page/bf_home) has been significantly expanded to 40 topics,
+comparing state law exemptions in all 50 states and the District of Columbia. It
+is also available on the [Chart Builders homepage](https://www.bloomberglaw.com/page/chart_builders_home).
+
+### TRACKERS
+
+In 2016, in response to concerns about
+human health, the Environmental Protection Agency established health advisory
+levels of 70 parts per trillion for two of the most prominent PFAS chemicals,
+perfluorooctanoic acid (PFOA) and perfluorooctane sulfonic acid (PFOS). To
+date, mandatory limits have not yet been promulgated. In the absence of federal
+action, several states have developed or are developing regulations to address
+the problem. Bloomberg Law’s new [State PFAS Actions Tracker](https://www.bloomberglaw.com/product/es/document/XANLR9HO000000) on
+the [Environmental & Safety Practice Center](https://www.bloomberglaw.com/product/es/page/es_home) is trackingthese developments.
+
+### ENHANCED SEARCH FUNCTIONALITY
+
+All domestic and international privacy profiles can now be found using autocomplete in the [Search Bar](https://www.bloomberglaw.com/start). 
+If you type the name of a state or country within our database, a list of matching suggestions will appear. Currently, there are 48 (47 states and the
+District of Columbia) domestic profiles and 67 international profiles.
+
 ## October 2019
 
 ### PODCAST – LAW X.0
