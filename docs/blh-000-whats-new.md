@@ -5,6 +5,10 @@ title: Whats's New
 
 ## November 2019
 
+### STATE LITIGATION RESOURCES PAGES
+
+New one-stop shop for key litigation resources for each of the 50 states and Washington D.C. All state and federal litigation resources such as rules,statutes, court opinions, dockets, ethics resources, and statutes of limitations are accessible in one place, providing easy access to key resources and helping litigators save time on research. Enhancements include links to key information needed to litigate such as local rules, forms, filing information, and judicial information in state and federal courts, as well as a new Choice of Law practice tool for all 50 states and D.C. The state litigation resources pages are accessible from the revised map on the [Litigation Resources](https://www.bloomberglaw.com/product/blic/blic_home/page/blic_resources) page in the Litigation Intelligence Center.
+
 ### IN FOCUS: LITIGATION FINANCE
 
 Litigation finance is a complex industry that is growing in scope and demand. It encompasses any transaction in which a
@@ -100,10 +104,6 @@ the [Environmental & Safety Practice Center](https://www.bloomberglaw.com/produc
 All domestic and international privacy profiles can now be found using autocomplete in the [Search Bar](https://www.bloomberglaw.com/start). 
 If you type the name of a state or country within our database, a list of matching suggestions will appear. Currently, there are 48 (47 states and the
 District of Columbia) domestic profiles and 67 international profiles.
-
-### STATE LITIGATION RESOURCES PAGES
-
-New one-stop shop for key litigation resources for each of the 50 states and Washington D.C. All state and federal litigation resources such as rules,statutes, court opinions, dockets, ethics resources, and statutes of limitations are accessible in one place, providing easy access to key resources and helping litigators save time on research. Enhancements include links to key information needed to litigate such as local rules, forms, filing information, and judicial information in state and federal courts, as well as a new Choice of Law practice tool for all 50 states and D.C. The state litigation resources pages are accessible from the revised map on the [Litigation Resources](https://www.bloomberglaw.com/product/blic/blic_home/page/blic_resources) page in the Litigation Intelligence Center.
 
 ## October 2019
 
