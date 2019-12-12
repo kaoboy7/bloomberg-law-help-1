@@ -3,6 +3,31 @@ title: Whats's New
 ---
 ### [Subscribe to our monthly What’s New Update](https://pro.bloomberglaw.com/whats-new-opt-in/ "Subscribe to our monthly What’s New Update")
 
+## December 2019
+
+### STATE LITIGATION RESOURCES
+
+The new [state litigation resources pages](http://app.about.bna.com/e/er?utm_campaign=LEGAL_SUBENGAGE_New%20Litigation%20Enhancements_Resend_EM%201_120519&utm_medium=email&utm_source=Eloqua&s=1424104964&lid=6842&elqTrackId=e1738f3e94b24c97a55abe3dfca308b1&elq=805e2adfa9e54ea5a8a4baac5d275235&elqaid=16512&elqat=1) provide a one-stop shop for key litigation resources for each of the 50 states and Washington, D.C. All state and federal litigation resources, such as rules, statutes, court opinions, dockets, ethics resources, and statutes of limitations, are accessible in one place, providing easy access to key resources and helping litigators save time on research. Enhancements include links to key information needed to litigate, such as local rules, forms, filing information, and judicial information in state and federal courts, as well as a new [Choice of Law](https://www.bloomberglaw.com/product/blic/document/XCU26KF8000000) practice tool for all 50 states and D.C. The state litigation resources pages are accessible from the revised map on the [Litigation Resources](http://app.about.bna.com/e/er?utm_campaign=LEGAL_SUBENGAGE_New%20Litigation%20Enhancements_Resend_EM%201_120519&utm_medium=email&utm_source=Eloqua&s=1424104964&lid=6842&elqTrackId=294230e9aec24097af540b3a97670009&elq=805e2adfa9e54ea5a8a4baac5d275235&elqaid=16512&elqat=1) page in the Litigation Intelligence Center.
+
+### PRACTICAL GUIDANCE 
+
+#### Transactional Intelligence Center
+
+With a focus on contracts, Bloomberg Law’s transactional Practical Guidance is expanding to provide additional annotated contracts, including pro-buyer and pro-seller contract versions, and clause descriptions. We are also debuting a new type of contract-related content, sample annotated clauses, so that lawyers will be able to “import” specific clauses they need into an existing contract. Available on the [Transactional Intelligence Center](https://www.bloomberglaw.com/product/btic/page/txl_home), this new content has begun to be published as [Practical Guidance](https://www.bloomberglaw.com/product/btic/content_menu/105.493472) and these enhancements will continue to be published through the coming year. 
+
+### LABOR & EMPLOYMENT PRACTICE CENTER
+
+New filters have been added to the L&E Practice Center’s collection of collective bargaining agreements (CBAs) and employment arbitration awards on the [Labor & Employment Practice Center](https://www.bloomberglaw.com/product/labor/page/le_home). Collective Bargaining Agreements can now be filtered by Employer, Union, and Contract Start Date. With these filters, users can quickly access CBAs for a particular union or see all of the CBAs in the database that apply to a specific company. Employment Arbitration Awards can be filtered by Arbitrator, Prevailing Party, Topic, State, Industry, and Costs Assigned to Parties, allowing users to quickly narrow down awards to specific arbitrators, along with relevant topics and industries. Links to the Collective Bargaining Agreements can be found in the Trackers & Practice Tools tile on the [Labor Relations & Collective Bargaining](https://www.bloomberglaw.com/product/labor/page/le_lrcb) practice page. Employment Arbitration Awards can be found in the Opinions, Dockets & Arbitration Awards tile on the [Employment](https://www.bloomberglaw.com/product/labor/page/le_employment) practice area page.
+
+### ALERTS
+
+Bloomberg Law users now have the ability to edit both their alerts and search criteria directly from their Alerts Management page. This long-requested enhancement will allow users to quickly modify their alerts without having to rerun their search, thus saving time and adding efficiency to their research on Bloomberg Law. 
+
+### PORTFOLIOS
+
+Portfolios on Bloomberg Law now include an interactive Table of Contents in the left rail. This functionality allows users to navigate to any part of a Portfolio, including the Portfolio Description, Detailed Analysis, and Practice Tools.
+
+
 ## November 2019
 
 ### STATE LITIGATION RESOURCES PAGES
