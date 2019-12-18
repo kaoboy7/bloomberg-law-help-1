@@ -20,11 +20,7 @@ and more!
 This technology guarantees access to the filings you are looking for
 instead of those that mention the keyword.
 
-------------------------------------------------------------------------
-
-### **Docket Key** is available in the following courts:
-
-![DK Court May 19b](/images/docket-courts.png "DK Court May 19b")
+Docket Key is available for civil cases in all federal district courts.
 
 ------------------------------------------------------------------------
 
