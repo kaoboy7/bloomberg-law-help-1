@@ -10,13 +10,13 @@ contactLink: https://www.bloomberglaw.com/help_chat
 |Browse Help   |     |
 |:-------------|-----|
 |[Getting Started](/docs/bla-000.html)|[What's New](/docs/blh-000-whats-new.html)|
-|[Search & Browse](/docs/blh-010-search-and-browse.html)|[Specialized Searches](/docs/blh-020-specialized-searches.html)|
-|[Litigation Intelligence Center](/docs/blh-030-litigation-intelligence-center.html)|[Dockets](/docs/blh-040-dockets.html)|
-|[Transactional Law](/docs/blh-050-corporate-and-transactional.html)|[News & Law Reports](/docs/blh-060-news-and-law-reports.html)|
-|[Business Intelligence](/docs/blh-070-business-intelligence-center.html)|[Saved for Later & Workspaces](/docs/blh-080-saved-for-later-and-workspaces.html)|
-|[Downloads, Printing & E-mail](/docs/blh-090-downloads-printing-and-email.html)|[Bloomberg Law Practice Centers](/docs/blh-100-bloomberg-law-practice-centers.html)|
-|[Law School](/docs/blh-110-law-school.html)|[Bloomberg Law: Tax](https://bltx-help.bloombergtax.com/)|
-|[Training Videos](/docs/blh-120-videos.html)| |
+|[Search & Browse](/docs/blh-010-search-and-browse.html)|[Brief Analyzer Video](https://vimeopro.com/user92501250/brief-analyzer)|
+|[Litigation Intelligence Center](/docs/blh-030-litigation-intelligence-center.html)|[Specialized Searches](/docs/blh-020-specialized-searches.html)|
+|[Transactional Law](/docs/blh-050-corporate-and-transactional.html)|[Dockets](/docs/blh-040-dockets.html)|
+|[Business Intelligence](/docs/blh-070-business-intelligence-center.html)|[News & Law Reports](/docs/blh-060-news-and-law-reports.html)|
+|[Downloads, Printing & E-mail](/docs/blh-090-downloads-printing-and-email.html)|[Saved for Later & Workspaces](/docs/blh-080-saved-for-later-and-workspaces.html)|
+|[Law School](/docs/blh-110-law-school.html)|[Bloomberg Law Practice Centers](/docs/blh-100-bloomberg-law-practice-centers.html)|
+|[Training Videos](/docs/blh-120-videos.html)|[Bloomberg Law: Tax](https://bltx-help.bloombergtax.com/)|
 
 |Frequently Asked Questions    |
 |:-------------|
