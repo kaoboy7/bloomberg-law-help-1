@@ -20,6 +20,6 @@
     "cpy-cli": "^2.0.0",
     "editorcomponents": "^1.0.3",
     "eslint": "^5.14.1",
-    "vuepress-theme-bna": "1.2.4"
+    "vuepress-theme-bna": "1.2.5"
   }
 }

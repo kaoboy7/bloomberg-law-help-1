@@ -17,6 +17,7 @@ contactLink: https://www.bloomberglaw.com/help_chat
 |[Downloads, Printing & E-mail](/docs/blh-090-downloads-printing-and-email.html)|[Saved for Later & Workspaces](/docs/blh-080-saved-for-later-and-workspaces.html)|
 |[Law School](/docs/blh-110-law-school.html)|[Bloomberg Law Practice Centers](/docs/blh-100-bloomberg-law-practice-centers.html)|
 |[Training Videos](/docs/blh-120-videos.html)|[Bloomberg Law: Tax](https://bltx-help.bloombergtax.com/)|
+||[Customize Bloomberg Law Highlights Email](/images/Customizing-your-Case-Alerts-on-Bloomberg-Law.pdf)|
 
 |Frequently Asked Questions    |
 |:-------------|
@@ -30,7 +31,7 @@ contactLink: https://www.bloomberglaw.com/help_chat
 
 |[Click here to access Bloomberg Law's Training Videos](/docs/blh-120-videos.html)|
 |:-------------|
-|[![home](/images/blaw-help-home.jpg "home")](/docs/blh-120-videos.html)|
+|[![videos](/images/blaw-help-home.jpg "videos")](/docs/blh-120-videos.html)|
 
 
 

@@ -8024,10 +8024,10 @@ vuepress-html-webpack-plugin@^3.2.0:
     toposort "^1.0.0"
     util.promisify "1.0.0"
 
-vuepress-theme-bna@1.2.4:
-  version "1.2.4"
-  resolved "https://registry.yarnpkg.com/vuepress-theme-bna/-/vuepress-theme-bna-1.2.4.tgz#22b1de3113e91d7624b3a38000ed1aacdc38a713"
-  integrity sha512-o27fZ5FFLlRzmyS8usIByFg5tfDjlCIj/azxGR/XQMY3oQdVSpPm+uTsUaCK+CEOn60o/9TkZqGC7SNISdAnHw==
+vuepress-theme-bna@1.2.5:
+  version "1.2.5"
+  resolved "https://registry.yarnpkg.com/vuepress-theme-bna/-/vuepress-theme-bna-1.2.5.tgz#cab64010a6f7bb6b89e1924ae9cbfc3b54158d3a"
+  integrity sha512-R6UJJCO9j2a4BSJIDskanfneFTEiO8Au0qb0Y+wKbgOTT5RPg79sTL9hp7BbijKykL+INI5xcmrhHcMt2e1l7A==
 
 vuepress@^0.14.9:
   version "0.14.11"
