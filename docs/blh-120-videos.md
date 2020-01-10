@@ -11,6 +11,14 @@ Content and tools, homepage, site navigation, go bar search.
 
 <!-- //////////////////////////////////////////////////////////////////////////////////// -->
 
+## Brief Analyzer
+
+Analyze briefs, find related content, and accelerate research.
+
+<vimeo source="347767057"></vimeo>
+
+<!-- //////////////////////////////////////////////////////////////////////////////////// -->
+
 ## Dockets Part 1
 
 How to track developments affecting cases, businesses, adversaries, more.
