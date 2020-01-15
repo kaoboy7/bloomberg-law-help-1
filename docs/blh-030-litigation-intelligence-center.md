@@ -529,10 +529,7 @@ rail. 
 
 ### Direct History
 
-Shows how your case moved through the court system and shows other
-opinions relating to your case.  This includes cases with the same
-controversy or opinions resulting from related
-appeals.  
+The Direct History lists prior and subsequent cases that affect or are affected by the outcome of the main opinion. It may display the normalized result of a case within the Direct History, which represents the ultimate outcome of the case. The Direct History will link cases that are affected by the outcome of subsequent cases.
 
 ![BCITEHistory](/images/blic_BCITE_History.jpg "BCITEHistory")
 
