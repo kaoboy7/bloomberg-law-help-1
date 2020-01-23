@@ -43,5 +43,5 @@ It is featured prominently in the Dockets Search template, available from &quot;
 
 ### BOOKS &amp; TREATISES; MANUALS
 
-New interactive Table of Contents funcntionality has been added to the collection of Books &amp; Treatises and Manuals on Bloomberg Law. The functionality allows users to quickly and easily navigate to any part of a treatise or manual. Previously, this functionality had been added to our collection of Portfolios.
+New interactive Table of Contents functionality has been added to the collection of [Books &amp; Treatises and Manuals](https://www.bloomberglaw.com/start#advanced-search/edit/books) on Bloomberg Law. The functionality allows users to quickly and easily navigate to any part of a treatise or manual. Previously, this functionality had been added to our collection of Portfolios.
 
