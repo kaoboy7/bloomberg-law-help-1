@@ -19,6 +19,12 @@ Analyze briefs, find related content, and accelerate research.
 
 <!-- //////////////////////////////////////////////////////////////////////////////////// -->
 
+## Brief Analyzer Tutorial
+
+<vimeo source="386831841"></vimeo>
+
+<!-- //////////////////////////////////////////////////////////////////////////////////// -->
+
 ## Dockets Part 1
 
 How to track developments affecting cases, businesses, adversaries, more.
