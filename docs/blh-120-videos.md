@@ -11,15 +11,9 @@ Content and tools, homepage, site navigation, go bar search.
 
 <!-- //////////////////////////////////////////////////////////////////////////////////// -->
 
-## Brief Analyzer
+## Brief Analyzer - Coming Soon
 
 Analyze briefs, find related content, and accelerate research.
-
-<vimeo source="347767057"></vimeo>
-
-<!-- //////////////////////////////////////////////////////////////////////////////////// -->
-
-## Brief Analyzer Tutorial
 
 <vimeo source="386831841"></vimeo>
 
