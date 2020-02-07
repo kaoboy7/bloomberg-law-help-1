@@ -10,7 +10,7 @@ contactLink: https://www.bloomberglaw.com/help_chat
 |Browse Help   |     |
 |:-------------|-----|
 |[Getting Started](/docs/bla-000.html)|[What's New](/docs/blh-000-whats-new.html)|
-|[Search & Browse](/docs/blh-010-search-and-browse.html)|[Brief Analyzer - Coming Soon](/docs/blh-120-videos.html#brief-analyzer-coming-soon)|
+|[Search & Browse](/docs/blh-010-search-and-browse.html)|[Brief Analyzer](/docs/blh-120-videos.html#brief-analyzer)|
 |[Litigation Intelligence Center](/docs/blh-030-litigation-intelligence-center.html)|[Specialized Searches](/docs/blh-020-specialized-searches.html)|
 |[Transactional Law](/docs/blh-050-corporate-and-transactional.html)|[Dockets](/docs/blh-040-dockets.html)|
 |[Business Intelligence](/docs/blh-070-business-intelligence-center.html)|[News & Law Reports](/docs/blh-060-news-and-law-reports.html)|

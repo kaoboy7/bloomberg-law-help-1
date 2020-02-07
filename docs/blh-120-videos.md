@@ -11,7 +11,7 @@ Content and tools, homepage, site navigation, go bar search.
 
 <!-- //////////////////////////////////////////////////////////////////////////////////// -->
 
-## Brief Analyzer - Coming Soon
+## Brief Analyzer
 
 Analyze briefs, find related content, and accelerate research.
 
