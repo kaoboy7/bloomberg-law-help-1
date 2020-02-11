@@ -525,13 +525,13 @@ A link to view the **BCITE Indicators** is also available at the bottom
 of the right
 rail.   
 
-![BCITE1](/images/blic_BCITE_1.jpg "BCITE1")
+![BCITE-Overview](/images/BCITE-Overview.png "BCITE-Overview")
 
 ### Direct History
 
 The Direct History lists prior and subsequent cases that affect or are affected by the outcome of the main opinion. It may display the normalized result of a case within the Direct History, which represents the ultimate outcome of the case. The Direct History will link cases that are affected by the outcome of subsequent cases.
 
-![BCITEHistory](/images/blic_BCITE_History.jpg "BCITEHistory")
+![BCite-Direct-History](/images/BCite-Direct-History.png "BCite-Direct-History")
 
 ### Case Analysis
 
@@ -745,7 +745,7 @@ the right rail. This will expand the rail and list any Related Dockets
 with a hyperlink to the
 case.  
 
-![BLICSCUSC5](/images/blic_BLIC_SC_USC_5.jpg "BLICSCUSC5")
+![Smart-Code-Related-Dockets](/images/Smart-Code-Related-Dockets.png "Smart-Code-Related-Dockets")
 
 ### BCITE Analysis
 
@@ -754,4 +754,4 @@ the right rail. This will expand the rail and list any Related Dockets
 with a hyperlink to the
 case.  
 
-![BLICSCUSC6](/images/blic_BLIC_SC_USC_6.jpg "BLICSCUSC6")
+![Smart-Code-BCITE-Analysis](/images/Smart-Code-BCITE-Analysis.png "Smart-Code-BCITE-Analysis")
