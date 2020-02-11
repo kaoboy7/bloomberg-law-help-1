@@ -3,6 +3,40 @@ title: Whats's New
 ---
 ### [Subscribe to our monthly What’s New Update](https://pro.bloomberglaw.com/whats-new-opt-in/ "Subscribe to our monthly What’s New Update")
 
+## February 2020
+
+### BRIEF ANALYZER
+
+Bloomberg Law&#39;s highly-anticipated Brief Analyzer was released February 10th to all Bloomberg Law complete subscribers. This AI-powered tool automates steps in traditional legal brief analysis, expediting the review and evaluation of cited authorities and suggesting additional resources for review.
+
+The new litigation tool is easy to use. Simply upload or drag and drop a brief as indicated on the [Brief Analyzer](https://www.bloomberglaw.com/product/blaw/analyses/briefs/new) landing page. In seconds, Brief Analyzer will:  
+  - Display the brief and analysis in a side-by-side comparison
+  - Suggest relevant content not cited in the brief, providing detailed reasons for the suggestions
+  - Enhance your research by integrating practice tools such as BCiteSM, Points of Law, and Docket Key® into the brief analysis
+  - Link to additional resources on our platform including similar briefs and Practical Guidance
+
+Brief Analyzer is available from [Popular Links](https://www.bloomberglaw.com/start) on the Bloomberg Law homepage and via the [Litigation Intelligence Center](https://www.bloomberglaw.com/product/blic/page/blic_home).
+
+### PRACTICAL GUIDANCE
+
+**SEC Standards of Care**
+
+Bloomberg Law&#39;s new collection of SEC Standards of Care Practical Guidance will help you navigate one of the SEC&#39;s most significant recent rulemaking efforts, providing legal or compliance advice ahead of the June 2020 deadline for Regulation Best Interest and Form CRS. The rules are aimed at strengthening the standards of care governing the relationships between broker-dealers and investment advisers with their customers. The new Practical Guidance documents provide an overview of these requirements and interpretations of investment advisory principles, guidance on compliance considerations, and best practice tips on implementation. This new Practical Guidance is available on the [In Focus: SEC Regulation Best Interest](https://www.bloomberglaw.com/product/securities/page/se_infocus_bestinterest) page.
+
+
+### PRACTICE CENTERS
+
+**Labor &amp; Employment**
+
+A new [Local L&amp;E Coverage](https://www.bloomberglaw.com/product/labor/le_home/page/le_local_coverage) page is available on the [Labor &amp; Employment Practice Center](https://www.bloomberglaw.com/product/labor/page/le_home) under Laws &amp; Regulations. This page describes the scope of Bloomberg Law&#39;s local L&amp;E content coverage and provides a list of all covered localities and topics. It compiles our local materials and tools, including Local Quick Reference Charts, state Chart Builders, a state preemption map, and links to municipal ordinances.
+
+### BLOOMBERG LAW ANALYSIS
+
+**The Gap in CCPA-Compliant Privacy Notices**
+
+
+Read Mark Smith&#39;s new [Analysis](https://news.bloomberglaw.com/bloomberg-law-analysis/analysis-the-gap-in-ccpa-compliant-privacy-notices) article, inspecting all of Gap, Inc.&#39;s online consumer privacy notices and information and comparing them to the requirements of the newly effective California Consumer Privacy Act. It provides a clear point-by-point examination of how the largest consumer retailer based in California has executed the obligations now facing any entity covered by the new law.
+
 ## January 2020
 
 ### PRACTICAL GUIDANCE 
