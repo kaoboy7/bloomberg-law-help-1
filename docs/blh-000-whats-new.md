@@ -3,6 +3,61 @@ title: Whats's New
 ---
 ### [Subscribe to our monthly What’s New Update](https://pro.bloomberglaw.com/whats-new-opt-in/ "Subscribe to our monthly What’s New Update")
 
+## March 2020
+
+### IN FOCUS
+
+**In Focus:**  **Coronavirus**
+
+The new [In Focus: Coronavirus](https://www.bloomberglaw.com/page/infocus_coronavirus) page covers legal issues involving pandemics, with specific emphasis on developments surrounding the coronavirus.  The page includes the latest news, law firm client alerts, information for employers on pandemic preparedness, health law alerts, analysis pieces, and more. The new page is available on the homepage of [Health](https://www.bloomberglaw.com/product/health/page/health_home), [International Trade](https://www.bloomberglaw.com/product/trade/page/trade_home), [Corporate](https://www.bloomberglaw.com/product/corporate/page/cp_home), and [Labor &amp; Employment](https://www.bloomberglaw.com/product/labor/page/le_home) Practice Centers and in the [In Focus Resources homepage](https://www.bloomberglaw.com/page/infocus_home).
+
+**In Focus: ESG**
+
+The new [In Focus: ESG](https://www.bloomberglaw.com/product/BLCP/page/infocus_esg) page covers environmental, social, and governance factors that may have a material impact on a company&#39;s performance. In-house counsel can use this new In Focus page to monitor ESG regulatory developments, assess potential risks and opportunities arising from ESG disclosures, and align their legal department&#39;s goals with corporate strategy. Law firm attorneys can use this page to monitor ESG regulatory developments and to assess potential risks and opportunities arising from ESG disclosures for their corporate clients. The new In Focus: ESG page can be found on the [Corporate Practice Center](https://www.bloomberglaw.com/product/corporate/page/cp_home), the [Governance Practice Page](https://www.bloomberglaw.com/product/corporate/page/cp_governance), [Legal Department Practice Page](https://www.bloomberglaw.com/product/corporate/page/cp_legaldept), and in the [In Focus Resources homepage](https://www.bloomberglaw.com/page/infocus_home).
+
+**In Focus: CCPA**
+
+A map view of the [CCPA Copycat Legislative Proposals Tracker](https://www.bloomberglaw.com/product/privacy/pds_home/document/X3E8DPGS000000), which monitors proposed legislation from states other than California that have implemented measures expanding consumer privacy rights (similar to the CCPA), is now available on the [In Focus](https://www.bloomberglaw.com/product/privacy/pds_home/page/in_focus_ccpa): CCPApage in the [Privacy &amp; Data Security](https://www.bloomberglaw.com/product/privacy/page/pds_home)Practice Center.
+
+### PRACTICAL GUIDANCE
+
+**Litigation**
+
+New Litigation Practical Guidance coverage – [Magistrate Judges &amp; Special Masters](https://www.bloomberglaw.com/product/BLPG/page/blic_pg_initiating_litigation) and [Disqualification &amp; Recusal](https://www.bloomberglaw.com/product/BLPG/page/blic_pg_threshold_issues) – has been added to the [Litigation Practical Guidance Library](https://www.bloomberglaw.com/product/blic/blic_home/page/blic_pg_library). Included are Overviews on referrals to a magistrate judge and the role of special masters. Disqualification &amp; Recusal Practical Guidance covers judicial and attorney disqualification, including an Overview of each topic and coverage of a motion to disqualify, recuse a judge. The new content is also available via [Practical Guidance homepage](https://www.bloomberglaw.com/product/blpg/page/pg_home).
+
+**Transactional**
+
+Bloomberg Law now offers a number of new [Sample Contracts](https://www.bloomberglaw.com/product/BLPG/search/results/942253305f09f4d8b104c1364322cd35), including annotated pro-party contracts, in several areas of subscriber interest. In addition, a number of new [Annotated Sample Clauses](https://www.bloomberglaw.com/product/BLPG/search/results/6bd5a39b4c8f642538794e7f3b5625ef)are now called out in a separate search within the Contract Drafting Practical Guidance tile on the [Transactional Intelligence Center homepage](https://www.bloomberglaw.com/product/btic/page/txl_home).
+
+
+### TRACKERS
+
+**Supreme Court Today Tracker**
+
+The [Supreme Court Tracker](https://www.bloomberglaw.com/product/blic/search/results/ab2f160c75c6453c73036a25f91a86ca) has a new look and added functionality, including new filters for Status,  Event, Primary Topic, Secondary Topic, Court Below, Docket Number, Date Filed, Review Date, Argument Date, Judgment/Decision Date, Dismissal Date, and Date Posted. Users have the option to set alerts as well as add searches to dashboards. The Supreme Court Tracker is available from the [Litigation Intelligence Center homepage](https://www.bloomberglaw.com/product/blic/page/blic_home)and the [Trackers homepage](https://www.bloomberglaw.com/page/trackers_home).
+
+**Labor PLUS: Organizing &amp; Bargaining Trackers**
+
+The [Labor PLUS: Organizing &amp; Bargaining Trackers](https://www.bloomberglaw.com/product/BLLE/page/le_labor_plus) have been enhanced to provide more effective filtering.  A new landing page centralizes all five of the Labor PLUS databases including [NLRB Elections](https://www.bloomberglaw.com/product/labor/custom_display_searches/nlrb_elections), [Work Stoppages](https://www.bloomberglaw.com/product/labor/custom_display_searches/work_stoppages), [Unfair Labor Practice Charges](https://www.bloomberglaw.com/product/labor/custom_display_searches/ulp_charges), [Settlement Summaries](https://www.bloomberglaw.com/product/labor/custom_display_searches/settlement_summaries), and [Contract Expirations](https://www.bloomberglaw.com/product/labor/search/results/186e76d396b1c96672d40e1d945c00b8). In addition, related content such as the full text of bargaining agreements and special labor reports is highlighted on the landing page. The new landing page is available on the [Labor &amp; Employment homepage](https://www.bloomberglaw.com/product/labor/page/le_home), the [Labor Relations &amp; Collective Bargaining practice page](https://www.bloomberglaw.com/product/labor/page/le_lrcb), the [Labor Arbitration practice page](https://www.bloomberglaw.com/product/labor/page/le_arbitration), the [Government Employees practice page](https://www.bloomberglaw.com/product/labor/page/le_public_sector), and the [Trackers homepage](https://www.bloomberglaw.com/page/trackers_home)
+
+### CHART BUILDERS
+
+**General Lending: Change of Control**
+
+The new [General Lending: Change of Control](https://www.bloomberglaw.com/product/bankfinance/bbna/chart/40/10051) Chart Builder covers situations in which a state-licensed lender experiences a change in shareholders such that it constitutes a &quot;change of control&quot; under state law. The new Chart Builder illustrates which types of ownership changes amount to a change of control, and what filing or notice requirements apply when a change of control has occurred. Available on the [Chart Builders homepage](https://www.bloomberglaw.com/page/chart_builders_home), in the Chart Builders drop-down on the [Banking &amp; Finance Practice Center](https://www.bloomberglaw.com/product/bankfinance/page/bf_home), and on the [Banking State Law Chart Builders landing page](https://www.bloomberglaw.com/product/bankfinance/bf_states/page/bf_statelaws_charts).
+
+**Family Leave Insurance**
+
+A new state law [**Family Leave Insurance**](https://www.bloomberglaw.com/product/labor/bbna/chart/5/10139) Chart Builder has been added to the [Labor &amp; Employment Practice Center](https://www.bloomberglaw.com/product/labor/page/le_home). Several states and the District of Columbia have recently adopted family leave insurance laws that provide workers with paid leave (as opposed to unpaid leave required under the federal Family and Medical Leave Act) when taking leave for reasons such as treatment of a serious health condition, to provide care for a family member&#39;s serious health condition, or the birth or adoption of a child. The paid leave benefits are typically funded through payroll taxes paid by the employer and/or employee
+
+### BLOOMBERG LAW NEWS
+
+Bloomberg Law has launched the [In-House Counsel News](https://news.bloomberglaw.com/in-house-counsel) page and a weekly newsletter rounding up the biggest legal, regulatory, and compliance news items of interest to corporate counsel. It will include business of law coverage about in-house moves and practice trends, as well as contributions from leading practitioners and experts.
+
+### BLOOMBERG LAW ANALYSIS
+
+The coronavirus figures prominently in three recent Analysis pieces covering the [Morgan Stanley E\*Trade merger](https://news.bloomberglaw.com/bloomberg-law-analysis/analysis-morgan-stanley-e-trade-merger-excludes-coronavirus), [coronavirus risk as a factor in company disclosures](https://news.bloomberglaw.com/bloomberg-law-analysis/analysis-factor-in-coronavirus-risks-in-company-disclosures), and [the effect of the coronavirus on contracts](https://news.bloomberglaw.com/bloomberg-law-analysis/analysis-coronavirus-shuts-down-contracts-too) including analysis of supply chain disruptions and the implementation of force majeure provisions.
+
 ## February 2020
 
 ### BRIEF ANALYZER
