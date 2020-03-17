@@ -8,6 +8,7 @@ module.exports = {
     },
     head: [
         ['link', { rel: 'icon', href: `/logo.png` }],
+        ['link', { rel: 'icon', href: `/favicon.ico` }],
         ['link', { rel: 'manifest', href: '/manifest.json' }],
         ['link', { rel: 'canonical', href: 'https://help.bloomberglaw.com' }],
         ['meta', { name: 'theme-color', content: '#0d9ddb' }],
