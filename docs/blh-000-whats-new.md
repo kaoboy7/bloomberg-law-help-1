@@ -3,6 +3,86 @@ title: What's New
 ---
 ### [Subscribe to our monthly What’s New Update](https://pro.bloomberglaw.com/whats-new-opt-in/ "Subscribe to our monthly What’s New Update")
 
+## April 2020
+
+### IN FOCUS RESOURCES
+
+#### In Focus: Coronavirus
+
+Covid-19 has made Bloomberg Law&#39;s [In Focus: Coronavirus](https://www.bloomberglaw.com/product/health/page/infocus_coronavirus) a go-to resource as well as a focus of our product development efforts. Recent enhancements, discussed below in greater detail, include: [Quarantine and Public Health Law Tracker](https://www.bloomberglaw.com/product/health/health_home/document/XCSD21H4000000); [Court Orders and Notices in Response to Covid-19](https://www.bloomberglaw.com/product/labor/document/XB4UO504000000) Tracker; [Coronavirus Labor &amp; Employment State Tracker](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.bloomberglaw.com%2Fproduct%2Flabor%2Fdocument%2FX5DAHEF0000000&amp;data=02%7C01%7Cgtobin%40bloomberglaw.com%7C8c5b065d5ec3491a61ea08d7d1ad95cd%7C97be21fdc6014b169920f5accc69da65%7C0%7C0%7C637208415823837368&amp;sdata=KqTiZ5rVa1hxQCbS8YAFtzFop1ZsDJBly7ItQvm0imo%3D&amp;reserved=0); [Coronavirus Outbreak](https://www.bloomberglaw.com/bloomberglawnews/coronavirus) news channel; [Bloomberg Prognosis](http://link.mail.bloombergbusiness.com/join/4wm/coronavirus-signup?source=covidemail) newsletter; and the [Coronavirus Practical Guidance Toolkit](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.bloomberglaw.com%2Fproduct%2Flabor%2Fpage%2Fpg_coronavirus&amp;data=02%7C01%7Cgtobin%40bloomberglaw.com%7C8c5b065d5ec3491a61ea08d7d1ad95cd%7C97be21fdc6014b169920f5accc69da65%7C0%7C0%7C637208415823827374&amp;sdata=ydsKvKoQQlyS6zPdDU9gHYS1oGfti4kV%2BkOYnpYRZXY%3D&amp;reserved=0).
+
+
+#### In Focus: Telehealth
+
+The Mobile Health page has been refocused on [Telehealth](https://www.bloomberglaw.com/product/health/health_home/page/infocus_mobile_health_technology), the electronic delivery of health-related services. Telehealth is a growing segment of the health sector, particularly in light of two federal laws that address the coronavirus crisis. [In Focus: Telehealth](https://www.bloomberglaw.com/product/health/health_home/page/infocus_mobile_health_technology) is available on the [Health Practice Center](https://www.bloomberglaw.com/product/health/page/health_home) and the [In Focus homepage](https://www.bloomberglaw.com/page/infocus_home).
+
+#### In Focus: CCPA
+
+A new [California Consumer Privacy Act Practical Guidance](https://www.bloomberglaw.com/product/BLPG/page/pds_pg_ccpa) topic page has been added to [CCPA: In Focus](https://www.bloomberglaw.com/product/privacy/page/in_focus_ccpa), providing ease of access to all topically related Practical Guidance. The topic page is available on the [Privacy &amp; Data Security Practice Center](https://www.bloomberglaw.com/product/privacy/page/pds_home) homepage and the [Corporate Practice Center&#39;s Compliance](https://www.bloomberglaw.com/product/corporate/page/cp_compliance) practice page.
+
+
+### PRATICAL GUIDANCE
+
+#### State Apportionment of Fault Rules
+
+A new state [State Apportionment of Fault Rules](https://www.bloomberglaw.com/product/blic/blic_home/document/X45J1CG8000000) content tool comparing laws across all 50 states and D.C. is now available. The tool includes overviews of [contributory negligence](https://www.bloomberglaw.com/document/XE5QSFN0000000), [comparative negligence](https://www.bloomberglaw.com/document/X8Q9RNFK000000), and[allocating liability among joint tortfeasors](https://www.bloomberglaw.com/document/X9QFIDDO000000) and is available from the [Litigation Resources](https://www.bloomberglaw.com/product/blic/page/blic_resources) page.
+
+#### Coronavirus Toolkit
+
+The new [Coronavirus Practical Guidance Toolkit](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.bloomberglaw.com%2Fproduct%2Flabor%2Fpage%2Fpg_coronavirus&amp;data=02%7C01%7Cgtobin%40bloomberglaw.com%7C8c5b065d5ec3491a61ea08d7d1ad95cd%7C97be21fdc6014b169920f5accc69da65%7C0%7C0%7C637208415823827374&amp;sdata=ydsKvKoQQlyS6zPdDU9gHYS1oGfti4kV%2BkOYnpYRZXY%3D&amp;reserved=0), available on the [In Focus: Coronavirus page](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.bloomberglaw.com%2Fproduct%2Flabor%2Fpage%2Finfocus_coronavirus&amp;data=02%7C01%7Cgtobin%40bloomberglaw.com%7C8c5b065d5ec3491a61ea08d7d1ad95cd%7C97be21fdc6014b169920f5accc69da65%7C0%7C0%7C637208415823837368&amp;sdata=%2FTYxeJx0Nm6uYdaZslWVc0KJLboouYr84JdXIl5%2B3n8%3D&amp;reserved=0), collects documents from across practice centers that will help corporate legal departments or their outside counsel navigate pandemic-related responses and changes to policies and procedures. More than 20 documents have been updated with editor&#39;s notes, annotations, and additional content. The Toolkit also includes newly created Practical Guidance documents identified as high-priority areas of coverage.
+
+#### Mezzanine Step-by-Step Page
+
+The [Mezzanine Finance Step-by-Step](https://www.bloomberglaw.com/product/btic/page/txl_stepxstep_mezzanine_finance) page is a new Practical Guidance collection that provides a general overview of the steps and documentation required for financings that bridge the gap between equity and senior debt in a borrower&#39;s capital structure. These materials are for in-house and law firm transactional attorneys working on raising funds for specific projects or to aid with an acquisition or buyout. The collection augments both Bloomberg Law&#39;s M&amp;A and Finance materials. It is available on the [Transactional Practical Guidance Library](https://www.bloomberglaw.com/product/btic/page/txl_pg_library), the [Commercial Lending](https://www.bloomberglaw.com/product/bankfinance/page/bf_commercial) page, and the [Practical Guidance](https://www.bloomberglaw.com/product/blpg/page/pg_home) homepage.
+
+
+
+### TRACKERS
+
+#### Coronavirus L&amp;E State Tracker
+
+A new [Labor &amp; Employment State Tracker](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.bloomberglaw.com%2Fproduct%2Flabor%2Fdocument%2FX5DAHEF0000000&amp;data=02%7C01%7Cgtobin%40bloomberglaw.com%7C8c5b065d5ec3491a61ea08d7d1ad95cd%7C97be21fdc6014b169920f5accc69da65%7C0%7C0%7C637208415823837368&amp;sdata=KqTiZ5rVa1hxQCbS8YAFtzFop1ZsDJBly7ItQvm0imo%3D&amp;reserved=0) on the [In Focus: Coronavirus page](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.bloomberglaw.com%2Fproduct%2FBLLE%2Fpage%2Finfocus_coronavirus&amp;data=02%7C01%7Cgtobin%40bloomberglaw.com%7C8c5b065d5ec3491a61ea08d7d1ad95cd%7C97be21fdc6014b169920f5accc69da65%7C0%7C0%7C637208415823847362&amp;sdata=K4BiH5ykUlTheOqSdnXwrA9sRBqkZR%2BdnhGFPPXjSLk%3D&amp;reserved=0) highlights state and local developments related to Covid-19, including legislative and regulatory actions, executive orders, and agency guidance. It specifically excludes shelter-in-place and stay-at-home orders, as well as orders directing business closures, state of emergency declarations, and appropriations.
+
+#### Quarantine &amp; Public Health Laws Tracker
+
+A new [Quarantine &amp; Public Health Laws Tracker](https://www.bloomberglaw.com/product/health/health_home/document/XCSD21H4000000) has been added to [In Focus: Coronavirus](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.bloomberglaw.com%2Fproduct%2FBLLE%2Fpage%2Finfocus_coronavirus&amp;data=02%7C01%7Cgtobin%40bloomberglaw.com%7C8c5b065d5ec3491a61ea08d7d1ad95cd%7C97be21fdc6014b169920f5accc69da65%7C0%7C0%7C637208415823847362&amp;sdata=K4BiH5ykUlTheOqSdnXwrA9sRBqkZR%2BdnhGFPPXjSLk%3D&amp;reserved=0) page. The Tracker compares quarantine and public health laws across 52 U.S. states and territories, and the District of Columbia. It identifies applicable statutory laws and regulations, provides information about new emergency public health regulations, and includes links to state Covid-19 preparedness websites.
+
+#### Court Orders &amp; Notices in Response to Covid-19 Tracker
+
+[Court Orders &amp; Notices in Response to Covid-19](https://www.bloomberglaw.com/product/labor/document/XB4UO504000000) provides daily updates on federal and state courts that have issued orders and other guidance on whether litigants and their counsel should appear in court under varying circumstances. The new Tracker is available on the [In Focus: Coronavirus page](https://www.bloomberglaw.com/product/health/health_home/page/infocus_coronavirus).
+
+### DRAFT ANALYZER
+
+The [Draft Analyzer](https://www.bloomberglaw.com/product/blaw/draft_analyzer/analysis/new) tool has an updated look, enhanced redlining and filtering functionality, and a new cluster map providing users a visual representation of how composite paragraphs compare to the user&#39;s language. Draft Analyzer uses machine learning to help lawyers compare provisions in their draft to similarly drafted paragraphs in the millions of exhibits filed in EDGAR.
+
+### DOCKETS
+
+[Bloomberg Law Dockets](https://www.bloomberglaw.com/start#advanced-search/dockets_v3) has added coverage for Idaho state district courts and Florida District Courts of Appeal.
+
+### NEWS
+
+The [Coronavirus Outbreak](https://www.bloomberglaw.com/bloomberglawnews/coronavirus) news channel consolidates Bloomberg Law&#39;s coverage of legal, tax  and regulatory developments, along with business impact and strategy, across all practice areas.
+
+The [Bloomberg Prognosis](http://link.mail.bloombergbusiness.com/join/4wm/coronavirus-signup?source=covidemail) newsletter offers a daily update on coronavirus and the global response to the outbreak by governments, businesses, and people
+
+### BLOOMBERG LAW ANALYSIS
+
+Gain data-based insights into the chilling effects of Covid-19 on the IPO market: [ANALYSIS: Covid-19 Bear Market Biting Unicorns and Other IPOs](https://www.bloomberglaw.com/product/blaw/document/X3MOCE3S000000)
+
+### PRACTICE CENTERS
+
+#### Bankruptcy
+
+The [Bankruptcy Practice Center](https://www.bloomberglaw.com/product/bky/page/bky_home) has been extensively updated to present information on one consolidated, easy to navigate page.  High value resources and tools, such as dockets and a new [Bankruptcy Reference Library](https://www.bloomberglaw.com/product/BKY/page/bky_reference_library) that consolidates all bankruptcy-related books, are featured prominently near the top of the page.
+
+#### Labor &amp; Employment
+
+The [Labor &amp; Employment Practice Center](https://www.bloomberglaw.com/product/labor/page/le_home)includes a revised home page and added practice pages that highlight state resources on a single page for each state via an interactive map.
+
+### BLOOMBERG BNA MANUALS
+
+The Labor Relations Expeditor Manual is now two distinct Manuals: the Labor Relations Guide and the Labor Arbitration and Grievance Guide. The new Manuals present labor relations and arbitration issues in a format organized around practitioners&#39; workflows. Available on the [Labor &amp; Employment Practice Center](https://www.bloomberglaw.com/product/labor/page/le_home).
+
 ## March 2020
 
 ### IN FOCUS
