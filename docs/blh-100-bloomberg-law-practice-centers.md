@@ -60,10 +60,6 @@ Access the latest guidance, analysis, and interpretations on the General
 Data Protection Regulation with the **EU GDPR Developments** tool, which
 also tracks country- specific implementation statutes.
 
-The **Compliance Risk Benchmarks** tool leverages a proprietary
-algorithm to produce risk benchmark scores for 10 topics across more
-than 45 jurisdictions.
-
 ### Practical Guidance
 
 Our exclusive **Practical Guidance** collection includes model policies,
