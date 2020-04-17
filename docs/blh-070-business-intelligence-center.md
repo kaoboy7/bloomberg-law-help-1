@@ -36,7 +36,7 @@ The **Business Intelligence Center** provides easy access to a number of busines
 
 ![BIC Pop Links](/images/bic-pop-links.png)
 
-**DASHBOARDS**
+## Dashboards
 
 The **Business Intelligence Center** also offers the ability to create an unlimited number of fully customized Dashboards populated with the tools and searches.
 
