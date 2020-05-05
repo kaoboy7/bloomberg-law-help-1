@@ -3,6 +3,25 @@ title: What's New
 ---
 ### [Subscribe to our monthly What’s New Update](https://pro.bloomberglaw.com/whats-new-opt-in/ "Subscribe to our monthly What’s New Update")
 
+## Recent Updates
+
+#### In Focus: Remaining Operational
+
+As a result of the recent economic downturn, more and more businesses have been forced to consider whether to continue in operation or to dissolve their organization. To help in-house counsel and outside advisers provide well-informed advice on this issue, [**In Focus: Remaining Operational**](https://www.bloomberglaw.com/product/BLCP/page/cp_infocus_remaining_operational)features a wealth of information on matters that a business must consider in order to continue operations, including content related to contracts, corporate governance, transactions, and employment issues. This page will help counsel make strategic decisions about their companies and provide them with the legal tools to execute their decisions.
+
+#### In Focus: Business Closure
+
+When remaining operational is not an option, [**In Focus: Business Closure**](https://www.bloomberglaw.com/product/BLCP/page/cp_infocus_business_closure) helps attorneys at law firms advise their corporate clients on the most appropriate business closure strategies, including the available options and the ramifications each option has on employees, supply chains, and current litigation. Featuring new Practical Guidance documents, this page pulls content from various practice areas and provides practitioners with a complete package of resources to consider when making a decision to close a business.
+
+#### In Focus: Lawyer Well Being
+
+After two 2016 studies set off alarm bells on the mental health of the legal profession, a small group of lawyers formed a national task force and started a movement to improve the health and well-being of legal professionals. Reflecting Bloomberg Law&#39;s support of this goal, the [In Focus: Lawyer Well-Being](https://www.bloomberglaw.com/product/BLIC/page/infocus_wellbeing) page promotes a variety of resources in support of a good workplace environment, including:
+
+- A map with links to lawyer assistance programs across the country
+- Coverage of legal protections available for attorneys suffering or recovering from drug or alcohol addiction, or dealing with mental illness or other disabilities
+- A model well-being survey employers can use with their employees
+- News, analysis, and additional resources
+
 ## April 2020
 
 ### IN FOCUS RESOURCES
