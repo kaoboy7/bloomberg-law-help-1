@@ -5,15 +5,19 @@ title: What's New
 
 ## Recent Updates
 
+## May 2020
+
+### IN FOCUS
+
 #### In Focus: Remaining Operational
 
-As a result of the recent economic downturn, more and more businesses have been forced to consider whether to continue in operation or to dissolve their organization. To help in-house counsel and outside advisers provide well-informed advice on this issue, [**In Focus: Remaining Operational**](https://www.bloomberglaw.com/product/BLCP/page/cp_infocus_remaining_operational)features a wealth of information on matters that a business must consider in order to continue operations, including content related to contracts, corporate governance, transactions, and employment issues. This page will help counsel make strategic decisions about their companies and provide them with the legal tools to execute their decisions.
+As a result of the recent economic downturn, more and more businesses have been forced to consider whether to continue in operation or to dissolve their organization. To help in-house counsel and outside advisers provide well-informed advice on this issue, [In Focus: Remaining Operational](https://www.bloomberglaw.com/product/BLCP/page/cp_infocus_remaining_operational)features a wealth of information on matters that a business must consider in order to continue operations, including content related to contracts, corporate governance, transactions, and employment issues. This page will help counsel make strategic decisions about their companies and provide them with the legal tools to execute those decisions.
 
 #### In Focus: Business Closure
 
-When remaining operational is not an option, [**In Focus: Business Closure**](https://www.bloomberglaw.com/product/BLCP/page/cp_infocus_business_closure) helps attorneys at law firms advise their corporate clients on the most appropriate business closure strategies, including the available options and the ramifications each option has on employees, supply chains, and current litigation. Featuring new Practical Guidance documents, this page pulls content from various practice areas and provides practitioners with a complete package of resources to consider when making a decision to close a business.
+When remaining operational is not an option, [In Focus: Business Closure](https://www.bloomberglaw.com/product/BLCP/page/cp_infocus_business_closure) helps attorneys at law firms advise their corporate clients on the most appropriate business closure strategies, including the available options and the ramifications each option has on employees, supply chains, and current litigation. Featuring new Practical Guidance documents, this page pulls content from various practice areas and provides practitioners with a complete package of resources to consider when making a decision to close a business.
 
-#### In Focus: Lawyer Well Being
+#### In Focus: Lawyer Well-Being
 
 After two 2016 studies set off alarm bells on the mental health of the legal profession, a small group of lawyers formed a national task force and started a movement to improve the health and well-being of legal professionals. Reflecting Bloomberg Law&#39;s support of this goal, the [In Focus: Lawyer Well-Being](https://www.bloomberglaw.com/product/BLIC/page/infocus_wellbeing) page promotes a variety of resources in support of a good workplace environment, including:
 
@@ -21,6 +25,56 @@ After two 2016 studies set off alarm bells on the mental health of the legal pro
 - Coverage of legal protections available for attorneys suffering or recovering from drug or alcohol addiction, or dealing with mental illness or other disabilities
 - A model well-being survey employers can use with their employees
 - News, analysis, and additional resources
+
+### In Focus: Covid-19 Financial Relief
+
+New [In Focus: Covid-19 Financial Relief](https://www.bloomberglaw.com/product/bankfinance/page/infocus_financial_regulation)provides coverage of the Small Business Administration and Federal Reserve Lending Programs (PPP, Main Street Lending, etc.) and a curated list of developments. New federal and state laws as well as actions of the federal financial regulators (SBA, OCC, FDIC, CFPB, etc.) are being tracked, as will any executive actions related to the effects of Covid-19 on the financial services industry. Highlights of the page include:
+
+- A curated list of top stories
+- Automated searches providing the most up to date BLAW news, insights, and alerts relating to Covid-19 financial relief
+- Curated lists of federal and state laws and regulations related to Covid-19 as well as federal enforcement and compliance efforts
+
+#### IN FOCUS: CORONAVIRUS
+
+A new [Fast Answers](https://www.bloomberglaw.com/product/labor/browser/105.507932#147715274) container has been added to [In Focus: Coronavirus](https://www.bloomberglaw.com/product/BLLE/page/infocus_coronavirus), including coverage of emergency paid medical and sick leave, health insurance, Medicare, payroll tax credits, and small business loans.
+
+### PRACTICAL GUIDANCE
+
+#### Corporate Transactions
+
+The [Direct Listing Step-by-Step](https://www.bloomberglaw.com/product/BTIC/page/txl_stepxstep_direct_listing?preview_page=true) page is a new transactional Practical Guidance collection that provides a general overview of the steps and documentation required for the listing of an issuer&#39;s securities on a public trading market, such as a stock exchange, that is not accompanied by any offering of newly-issued securities by the issuer. These materials are for in-house and law firm transactional attorneys working on taking a corporation public without doing a traditional IPO that raises capital for the issuer. The new page is included in the [Transactional Intelligence Center Practical Guidance Library](https://www.bloomberglaw.com/product/btic/page/txl_pg_library), under Corporate Transactions on the [Practical Guidance](https://www.bloomberglaw.com/product/BLPG/page/pg_home) homepage, and on the [Securities Practical Guidance Library](https://www.bloomberglaw.com/product/securities/se_home/page/se_pg_library) under Public Offerings.
+
+The [Equipment Sale Leaseback](https://www.bloomberglaw.com/product/BTIC/page/txl_pg_equipment_leaseback) page is a new Practical Guidance collection that provides a general overview of the actions and documentation required for this type of financing transaction under which a company sells equipment and machinery it currently owns, and then leases it back from the new owner. These materials are for in-house and law firm transactional attorneys working on raising funds for specific projects or to aid with an acquisition or buyout. This new resource is available in the Finance tile of the [Transactional Intelligence Center Practical Guidance Library](https://www.bloomberglaw.com/product/btic/page/txl_pg_library), as well as in the Corporate Transactions tile of the [Practical Guidance homepage](https://www.bloomberglaw.com/product/blpg/page/pg_home).
+
+### TRACKERS
+
+[International Trade Covid-19 Developments Tracker](https://www.bloomberglaw.com/product/health/document/XDL12EUG000000) covers new foreign regulations and guidance on importing and exporting goods related to the pandemic. Organized by country, the tracker provides the effective date, summary of the new requirement, issuing agency, links to official documents, and harmonized tariff codes (used to classify and define internationally traded goods) where available for the specific products affected.
+
+### PRACTICE CENTERS
+
+#### Labor &amp; Employment
+
+The [L&amp;E Practice Center homepage](https://www.bloomberglaw.com/product/labor/page/le_home) was reorganized to improve user experience as well as include a new U.S. map, which will allow users to click through to a separate state resource page for all 50 states and the District of Columbia. The new state pages provide news, case summaries, Practical Guidance, comparison charts, Chart Builders, posters, and primary source material for each state.
+
+New [Employment Checklists](https://www.bloomberglaw.com/product/labor/le_home/page/le_checklists) and [Employment Forms &amp; Letters](https://www.bloomberglaw.com/product/labor/le_home/page/le_forms_letters) pages, consisting of Practical Guidance documents, are now live on the [L &amp; E homepage](https://www.bloomberglaw.com/product/labor/page/le_home) and the [Employment page](https://www.bloomberglaw.com/product/labor/page/le_employment).The [L&amp;E Reference Library](https://www.bloomberglaw.com/product/labor/le_home/page/le_books) has been revamped to add Bloomberg BNA Portfolios and Manuals to its existing coverage of Books &amp; Treatises.
+
+### BLOOMBERG LAW ANALYSIS
+
+[Analysis: Feds Seize PPE Using Unlitigated Hoarding Statute](https://news.bloomberglaw.com/bloomberg-law-analysis/analysis-feds-seize-ppe-using-unlitigated-hoarding-statute)
+
+Although price gouging is not covered explicitly by federal statute, the U.S. government has begun seizing medical supplies under the anti-hoarding provision of the Defense Production Act. That statute, however, is virtually unlitigated. For businesses that need to source scarce materials, there is little guidance that legal counsel can provide about permissible behaviors.
+
+### DOCKETS
+
+Rhode Island state court dockets are now available on Bloomberg Law including the Rhode Island Supreme Court and the Superior Courts for Kent, Newport, Providence/Bristol, and Washington counties (from January 2020, civil cases).
+
+### PTAB/TTAB DECISIONS
+
+Users now have the ability to find court cases and United States Patent &amp; Trademark Office (USPTO) decisions that cite back to a Patent Trial &amp; Appeal Board (PTAB) or Trademark Trial &amp; Appeal Board (TTAB) opinion from a new Related Decisions icon on a PTAB or TTAB decision.
+
+### BOOKS &amp; TREATISES
+
+The Vaccines in Development chapter of the [Vaccine, Vaccination, and Immunization Law](https://www.bloomberglaw.com/document/25500820520#bn:vvil_12_iv_b) resource has been reorganized and updated with a section on COVID-19.  It now addresses characteristics of the disease along with the legal, regulatory, and intellectual property issues associated with development efforts for a vaccine against the virus.
 
 ## April 2020
 
