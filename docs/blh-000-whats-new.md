@@ -5,6 +5,12 @@ title: What's New
 
 ## Recent Updates
 
+### In Focus: Benefits &amp; Executive Compensation in an Uncertain Economy
+
+This new [In Focus resource page](https://www.bloomberglaw.com/product/BLEB/page/bec_infocus_uncertain_economy) covers employee benefits issues that occur in a slowing economy and a client&#39;s or organization&#39;s obligations under ERISA, the tax code, and recent legislation.
+
+For law firms, this tool pulls together all available resources necessary for corporate attorneys and employee benefits and bankruptcy specialists to help their clients make difficult decisions and manage liability risk. In-house benefits counsel can utilize these resources to work with senior management, plan administrators, and human resources staff to ensure appropriate compliance and communication to employees with respect to their options regarding their pensions, 401(k) or other retirement accounts, and health care plans and other benefits affected by corporate downsizings or terminations.
+
 ## May 2020
 
 ### IN FOCUS
