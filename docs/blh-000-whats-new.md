@@ -5,11 +5,87 @@ title: What's New
 
 ## Recent Updates
 
-### In Focus: Benefits &amp; Executive Compensation in an Uncertain Economy
+## June 2020
 
-This new [In Focus resource page](https://www.bloomberglaw.com/product/BLEB/page/bec_infocus_uncertain_economy) covers employee benefits issues that occur in a slowing economy and a client&#39;s or organization&#39;s obligations under ERISA, the tax code, and recent legislation.
+### BLOOMBERG LAW 2020
+
+[**Bloomberg Law 2020: Moving Forward &amp; Looking Ahead**](https://pro.bloomberglaw.com/bloomberg-law-2020/) is a relaunch of Bloomberg Law&#39;s public access website reflecting the transition from the initial emergency response to Covid-19 to short- and long-term strategic planning issues resulting from the recent economic downturn. Our release of 30+ analyses examines the overarching themes of business and industry, global impact, legal markets, and transactions, with specific coverage of:
+
+• Litigation and enforcement trends
+
+• Bankruptcy trends
+
+• Pandemic privacy issues
+
+• Employment/worker classification developments
+
+• Legal careers and litigation finance during downturn
+
+• Nontraditional finance
+
+• M&amp;A and private equity trends
+
+• Force majeure
+
+### IN FOCUS RESOURCES
+
+[In Focus: Benefits &amp; Executive Compensation in an Uncertain Economy resource page](https://www.bloomberglaw.com/product/BLEB/page/bec_infocus_uncertain_economy) covers employee benefits issues that occur in a slowing economy and a client&#39;s or organization&#39;s obligations under ERISA, the tax code, and recent legislation.
 
 For law firms, this tool pulls together all available resources necessary for corporate attorneys and employee benefits and bankruptcy specialists to help their clients make difficult decisions and manage liability risk. In-house benefits counsel can utilize these resources to work with senior management, plan administrators, and human resources staff to ensure appropriate compliance and communication to employees with respect to their options regarding their pensions, 401(k) or other retirement accounts, and health care plans and other benefits affected by corporate downsizings or terminations.
+
+### PRACTICAL GUIDANCE
+
+A new Practical Guidance suite dedicated to [Voluntary Chapter 11 Bankruptcy Proceedings](https://www.bloomberglaw.com/product/bky/bky_home/page/bky_pg_ch11_voluntary) guides users through the stages of filing an individual or non-individual voluntary chapter 11 bankruptcy. It provides broad subject overviews, as well as detailed annotations for filing out the schedules and forms. Available on the [Bankruptcy Practice Center](https://www.bloomberglaw.com/product/bky/page/bky_home) and the [Practical Guidance homepage](https://www.bloomberglaw.com/product/blpg/page/pg_home).
+
+[Step-by-Step: At the Market Offerings](https://www.bloomberglaw.com/product/btic/page/stepxstep_at_the_market_offerings) Practical Guidance provides a general overview of the steps and documentation required for the issuance of additional securities into the marketplace by an already public-reporting company. At the market (ATM) offerings are a type of shelf offering that helps companies raise capital at relatively low cost and with a great deal of control over both the number of shares sold and the timing of those sales. New Practical Guidance is available in the Registered Offerings Tile of the [Transactional Intelligence Center Practical Guidance Library](https://www.bloomberglaw.com/product/btic/page/txl_pg_library), in the Public Offerings Tile of the [Securities Practice Center&#39;s Practical Guidance Library](https://www.bloomberglaw.com/product/securities/se_home/page/se_pg_library), and in the Corporate Transactions tile of the [Practical Guidance](https://www.bloomberglaw.com/product/blpg/page/pg_home) homepage.
+
+The [Energy Project Finance](https://www.bloomberglaw.com/product/btic/page/txl_stepxstep_energy_finance) and [Real Estate Project Finance](https://www.bloomberglaw.com/product/btic/page/txl_stepxstep_real_estate_finance) Step-by-Step Practical Guidance provide general overviews of the steps and documentation required for the financing of energy and real estate projects while protecting the other assets held by the project sponsor, the principal company behind the project. These materials are for in-house and law firm transactional attorneys working for one of the many parties involved in the project, such as the project sponsor, owner, operator, contractor, project manager, supplier, customer, investor or governmental authority. This new content is available in the [Transactional Practical Guidance Library](https://www.bloomberglaw.com/product/btic/page/txl_pg_library), on the [Commercial Lending](https://www.bloomberglaw.com/product/bankfinance/page/bf_commercial) page under Practical Guidance (Forms &amp; Guidance), and on the [Practical Guidance](https://www.bloomberglaw.com/product/BLPG/page/pg_home) homepage under Corporate Transactions (Finance).
+
+Seven new states – Massachusetts, Michigan, New Jersey, Ohio, Pennsylvania, Virginia, Washington – have been added to the chart in the [Force Majeure &amp; Related Contract Defenses](https://www.bloomberglaw.com/product/btic/document/X5ODQ4TO000000) Practical Guidance document. The comparison table summarizes how courts in the selected states may address contractual nonperformance in commercial contracts when the contract itself does not expressly list the specific event (such as coronavirus) that is actually relied upon as a supervening cause.
+
+### CHART BUILDERS
+
+The [Insurance Coverage of Telehealth Services](https://www.bloomberglaw.com/bbna/chart/43/210) Chart Builder now tracks Covid-19 state regulations and legislation related to insurance coverage of telemedicine. The Chart Builder includes emergency rules, proposed rules, and notices. New regulations and legislation will be added as they become available. The Chart Builder appears on the [In Focus: Telehealth](https://www.bloomberglaw.com/product/health/health_home/page/infocus_mobile_health_technology) page in the State Law and Regulations container, as well as the [Health Practice Center](https://www.bloomberglaw.com/product/health/page/health_home),  [Health Information &amp; Technology](https://www.bloomberglaw.com/product/health/page/health_healthit) practice page, the [Chart Builder home page](https://www.bloomberglaw.com/page/chart_builders_home).
+
+New information regarding [Personal Protective Equipment](https://www.bloomberglaw.com/product/labor/bbna/chart/5/1/d33f0b1d3dae8f7fe5768b04969c418b) such as requirements for protective gear has been added to the [Occupational Safety Chart Builder](https://www.bloomberglaw.com/product/labor/bbna/chart/5/1/d33f0b1d3dae8f7fe5768b04969c418b/edit).
+
+### TRACKERS
+
+A new state content tool – the [Coronavirus – Return to Work Tracker](https://www.bloomberglaw.com/product/blaw/custom_display_searches/tracker_labor_employment) –  provides access to Covid-19-related developments as state and local governments issue guidance or directives to employers to safeguard their employees or customers as states and localities re-open in stages following coronavirus pandemic lockdowns. Coverage includes public health, occupational safety, respiratory protection, sick leave, workplace planning and protection, and other topics, broken down by industry, jurisdiction, type of document, and enacted and effective dates (if any). The Tracker is available in the Trackers &amp; State Developments box on the [In Focus: Coronavirus (Covid-19)](https://www.bloomberglaw.com/product/health/page/infocus_coronavirus) page and the [Trackers homepage](https://www.bloomberglaw.com/page/trackers_home).
+
+### BLOOMBERG LAW ANALYSIS
+
+[ANALYSIS: Zoom, Slack Muscle Onto Top Silicon Valley List](https://news.bloomberglaw.com/bloomberg-law-analysis/analysis-zoom-slack-muscle-onto-top-silicon-valley-list) - The newly released [Fenwick – Bloomberg Law SV 150 List](https://www.bloomberglaw.com/product/securities/document/X54P12T8000000?documentName=ORCA142393.PDF&amp;fmt=pdf), ranking the 150 largest public technology and life sciences companies in Silicon Valley by revenue, provides strong evidence that the Valley remains a cradle of innovation with 17 additions to the list this year.
+
+### BRIEF ANALYZER
+
+Bloomberg Law subscribers are now able to directly link to Brief Analyzer from briefs opened from our dockets database. To access this new functionality, users must select and open a brief.
+
+### PRACTICE CENTERS
+
+**Privacy &amp; Data Security**
+
+Bloomberg Law now [tracks](https://www.bloomberglaw.com/product/health/search/results/c3f6ddb34875435b7305cb90f5d38280) international contact tracing applications to mitigate the effect of Covid-19. This content is included in the International Privacy Profiles on the Privacy &amp; Data Security Practice Center&#39;s [International Resources](https://www.bloomberglaw.com/product/privacy/page/secondary_page_international_privacy) page and on the [In Focus: Coronavirus](https://www.bloomberglaw.com/product/health/page/infocus_coronavirus) resources page.
+
+**Trademarks &amp; Copyrights**
+
+**Patents &amp; Trade Secrets**
+
+A tile for Covid-19 Resources has been added to the home pages of both the [Patents &amp; Trade Secrets](https://www.bloomberglaw.com/product/ip/page/pts_home) and the [Trademarks &amp; Copyrights](https://www.bloomberglaw.com/product/ip/page/tc_home) Practice Centers, including curated links to Covid-19 related agency announcements, news, dockets, law firm client alerts, as well as a link to a search using &quot;Covid-19&quot; as the keyword through our Global Patents database.
+
+### FENWICK-BLOOMBERG LAW SILICON VALLEY 150 LIST
+
+In cooperation with Fenwick &amp; West, the Silicon Valley law firm, Bloomberg Law has published its second annual [Fenwick-Bloomberg Law SV 150 List](https://www.bloomberglaw.com/product/securities/document/X54P12T8000000?documentName=ORCA142393.PDF&amp;fmt=pdf). The list ranks the 150 largest public technology and life sciences companies in Silicon Valley by revenue and links to all 150 company profiles. The Fenwick-Bloomberg Law SV 150 List is published on the [In Focus: Deal Points](https://www.bloomberglaw.com/product/corporate/page/infocus_dealpoints) page and is an invaluable resource for lawyers working in the technology and life sciences industries.
+
+### BOOKS &amp; TREATISES
+
+New [Chapter 13 ](https://www.bloomberglaw.com/document/25774906408)International and Comparative Vaccine Laws has been added to the[Vaccine, Vaccination, and Immunization Law ](https://www.bloomberglaw.com/browser/105.550594)treatise and appears in the search results link in the [In Focus: Coronavirus page](https://www.bloomberglaw.com/product/health/page/infocus_coronavirus). This chapter will be of interest primarily to government officials and vaccine manufacturers dealing with international vaccine issues, such as importation and assertion of intellectual property rights, persons engaged in international efforts for the promotion of vaccination, and legislators and regulators interested in the examples of relative success presented by the comparative operation of other systems.
+
+A new sixth edition of [Employment Discrimination Law](https://www.bloomberglaw.com/legal_search/browser/105.463774)is now available on Bloomberg Law. This definitive treatise provides a balanced and unbiased approach and reflects the combined efforts of attorneys representing the plaintiff/public, management, and union employment bars.  Published in partnership with the ABA Section of Labor and Employment Law, the new edition&#39;s 44 chapters include discussions of discrimination in the contexts of disparate treatment and retaliation, national origin and citizenship religion, sexual orientation and gender identity, and much more.
+
+[Arbitration 2019: The Future of Work](https://www.bloomberglaw.com/product/blaw/browser/105.554040) is now available on Bloomberg Law. The work is a record of the 72nd Annual Proceedings of the National Academy of Arbitrators.
+
+A new landing page providing easy access to [Bloomberg Law Books &amp; Treatises](https://www.bloomberglaw.com/page/books_treatises_home) is now live, including associated Disco searches available into each primary category in which we have offerings. The new page has been added to the main [BLAW landing page](https://www.bloomberglaw.com/v2_start) under &quot;Searches&quot; and also to the &quot;Secondary Source&quot; menu.
 
 ## May 2020
 
