@@ -9,9 +9,12 @@ title: What's New
 
 A new [Return to Work Practical Guidance](https://www.bloomberglaw.com/product/labor/le_home/page/le_pg_emergencies_violence) suite includes 12 new documents responding to companies&#39; stated needs to understand the complicated and intertwined issues related to bringing office-based employees back to the workplace following work-from-home orders during the pandemic. The Practical Guidance is intended to help companies design and implement policies and procedures for the return of employees to the office. Available in the [Coronavirus Toolkit](https://www.bloomberglaw.com/product/health/page/pg_coronavirus) in the Return to Work tile and in the [Labor &amp; Employment Practical Guidance Library](https://www.bloomberglaw.com/product/labor/le_home/page/le_pg_emergencies_violence).
 
+Two new pages covering [Contract Actions](https://www.bloomberglaw.com/product/blic/page/blic_pg_contract_actions) and [Contract Defenses](https://www.bloomberglaw.com/product/blic/page/blic_pg_defenses_contract) have been added to Bloomberg Law&#39;s offering of Litigation Practical Guidance. This new coverage explains different contract-based causes of action, addressing the demand for state-specific precedent through Points of Law citations and curated court opinion searches. This content will be helpful to both junior associates new to the practice of law and to more senior associates who may be pivoting in the economic downturn towards more general commercial litigation matters that focus on contract disputes.
+
 ### TRACKERS
 
 A new [U.S. Contact Tracing Programs Tracker](https://www.bloomberglaw.com/product/health/search/results/e4f2b99e28a8063d38fd3a5aef9ed8c7) has been added to the [In Focus: Coronavirus (Covid-19)](https://www.bloomberglaw.com/product/health/page/infocus_coronavirus) page in the Trackers &amp; State Developments container. Many states have launched contact tracing efforts to mitigate the effects of Covid-19. These programs are now tracked on the [Privacy &amp; Data Security Practice Center](https://www.bloomberglaw.com/product/privacy/page/pds_home) in our U.S. State Privacy Profiles within the Emerging Issues and Outlook section. The profiles include laws passed, apps launched or in development, and the type of technology used, as well as details about how the personal information is collected and used.
+
 
 ## June 2020
 
