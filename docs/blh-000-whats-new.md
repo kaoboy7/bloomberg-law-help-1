@@ -3,18 +3,40 @@ title: What's New
 ---
 ### [Subscribe to our monthly What’s New Update](https://pro.bloomberglaw.com/whats-new-opt-in/ "Subscribe to our monthly What’s New Update")
 
-## Recent Updates
+## July 2020
+
+### BLOOMBERG LAW NEWS
+
+In response to new legal developments and trends, Bloomberg Law launched four news channels for Bloomberg Law subscribers, including:
+
+- [Social Justice News](https://news.bloomberglaw.com/social-justice), including legislation, regulation, trends, case law, and analysis focused on the justice system, employment law, health care access, the environment, and corporate and law firm business practices
+- The [Private Equity](https://news.bloomberglaw.com/private-equity) channel, covering significant legal and business developments involving Private Equity companies and the firms they own
+- The [Cannabis](https://news.bloomberglaw.com/cannabis) channel, reporting on legal and business issues faced by the cannabis industry, across all practice areas
+- [Insurance Law](https://news.bloomberglaw.com/insurance), covering legal and business issues for the insurance industry with an initial focus on business interruption issues resulting from the pandemic
 
 ### PRACTICAL GUIDANCE
 
-A new [Return to Work Practical Guidance](https://www.bloomberglaw.com/product/labor/le_home/page/le_pg_emergencies_violence) suite includes 12 new documents responding to companies&#39; stated needs to understand the complicated and intertwined issues related to bringing office-based employees back to the workplace following work-from-home orders during the pandemic. The Practical Guidance is intended to help companies design and implement policies and procedures for the return of employees to the office. Available in the [Coronavirus Toolkit](https://www.bloomberglaw.com/product/health/page/pg_coronavirus) in the Return to Work tile and in the [Labor &amp; Employment Practical Guidance Library](https://www.bloomberglaw.com/product/labor/le_home/page/le_pg_emergencies_violence).
+A new [Return to Work Practical Guidance](https://www.bloomberglaw.com/product/labor/le_home/page/le_pg_emergencies_violence) suite includes 12 documents responding to companies&#39; stated needs to understand the complicated and intertwined issues related to bringing office-based employees back to the workplace following work-from-home orders during the pandemic. This Practical Guidance is intended to help companies design and implement policies and procedures for the return of employees to the office. Available in the [Coronavirus Toolkit](https://www.bloomberglaw.com/product/health/page/pg_coronavirus) in the Return to Worksite tile and in the [Labor &amp; Employment Practical Guidance Library](https://www.bloomberglaw.com/product/labor/le_home/page/le_pg_emergencies_violence).
 
-Two new pages covering [Contract Actions](https://www.bloomberglaw.com/product/blic/page/blic_pg_contract_actions) and [Contract Defenses](https://www.bloomberglaw.com/product/blic/page/blic_pg_defenses_contract) have been added to Bloomberg Law&#39;s offering of Litigation Practical Guidance. This new coverage explains different contract-based causes of action, addressing the demand for state-specific precedent through Points of Law citations and curated court opinion searches. This content will be helpful to both junior associates new to the practice of law and to more senior associates who may be pivoting in the economic downturn towards more general commercial litigation matters that focus on contract disputes.
+Two new pages covering [Contract Actions](https://www.bloomberglaw.com/product/blic/page/blic_pg_contract_actions) and [Contract Defenses](https://www.bloomberglaw.com/product/blic/page/blic_pg_defenses_contract) have been added to Bloomberg Law&#39;s offering of [Litigation Practical Guidance](https://www.bloomberglaw.com/product/blic/page/blic_pg_library). This new coverage explains different contract-based causes of action, addressing the demand for state-specific precedent through Points of Law citations and curated court opinion searches. This content will be helpful to both junior associates new to the practice of law and to more senior associates who may be pivoting in the economic downturn towards more general commercial litigation matters that focus on contract disputes.
+
+A new [State Price Gouging tool](https://www.bloomberglaw.com/product/blaw/document/X3A5FTL8000000) has been added to the Practice Tools tile on the [Litigation Resources page](https://www.bloomberglaw.com/product/blic/page/blic_resources). Covering relevant statutes in 19 jurisdictions, this new Practical Guidance includes an overview document and comparison chart. Relevant price gouging statutes are often triggered by a state of emergency, such as the Covid-19 pandemic.
 
 ### TRACKERS
 
-A new [U.S. Contact Tracing Programs Tracker](https://www.bloomberglaw.com/product/health/search/results/e4f2b99e28a8063d38fd3a5aef9ed8c7) has been added to the [In Focus: Coronavirus (Covid-19)](https://www.bloomberglaw.com/product/health/page/infocus_coronavirus) page in the Trackers &amp; State Developments container. Many states have launched contact tracing efforts to mitigate the effects of Covid-19. These programs are now tracked on the [Privacy &amp; Data Security Practice Center](https://www.bloomberglaw.com/product/privacy/page/pds_home) in our U.S. State Privacy Profiles within the Emerging Issues and Outlook section. The profiles include laws passed, apps launched or in development, and the type of technology used, as well as details about how the personal information is collected and used.
+A new [U.S. Contact Tracing Programs Tracker](https://www.bloomberglaw.com/product/health/search/results/e4f2b99e28a8063d38fd3a5aef9ed8c7) has been added to the [In Focus: Coronavirus (Covid-19)](https://www.bloomberglaw.com/product/health/page/infocus_coronavirus) page in the Trackers &amp; State Developments container. Many states have launched contact tracing efforts to mitigate the effects of Covid-19. These programs are now tracked on the [Privacy &amp; Data Security Practice Center](https://www.bloomberglaw.com/product/privacy/page/pds_home) in the U.S. State Privacy Profiles within the Emerging Issues and Outlook section. The profiles include laws passed, apps launched or in development, and the type of technology used, as well as details about how the personal information is collected and used.
 
+**IN FOCUS RESOURCES**
+
+[In Focus: Cannabis](https://www.bloomberglaw.com/product/health/page/infocus_medical_marijuana) has added new content, including:
+
+- State Industrial Hemp Programs quick reference chart
+- Hemp Development tile including recent state legislation and rulemaking, and more
+- Latest News tile, including stories from the new [Cannabis news channel](https://news.bloomberglaw.com/cannabis)
+
+### ENHANCED SEARCH
+
+All Practical Guidance pages can now be located via autocomplete in the Search Bar on the [Bloomberg Law homepage](https://www.bloomberglaw.com/v2_start). Additionally, a Professional Perspectives Search has been added to autocomplete. Selecting this option from the Search Bar will pull up a search results page of all Professional Perspectives on the Bloomberg Law platform
 
 ## June 2020
 
