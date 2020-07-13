@@ -26,7 +26,7 @@ A new [State Price Gouging tool](https://www.bloomberglaw.com/product/blaw/docum
 
 A new [U.S. Contact Tracing Programs Tracker](https://www.bloomberglaw.com/product/health/search/results/e4f2b99e28a8063d38fd3a5aef9ed8c7) has been added to the [In Focus: Coronavirus (Covid-19)](https://www.bloomberglaw.com/product/health/page/infocus_coronavirus) page in the Trackers &amp; State Developments container. Many states have launched contact tracing efforts to mitigate the effects of Covid-19. These programs are now tracked on the [Privacy &amp; Data Security Practice Center](https://www.bloomberglaw.com/product/privacy/page/pds_home) in the U.S. State Privacy Profiles within the Emerging Issues and Outlook section. The profiles include laws passed, apps launched or in development, and the type of technology used, as well as details about how the personal information is collected and used.
 
-**IN FOCUS RESOURCES**
+### IN FOCUS RESOURCES
 
 [In Focus: Cannabis](https://www.bloomberglaw.com/product/health/page/infocus_medical_marijuana) has added new content, including:
 
