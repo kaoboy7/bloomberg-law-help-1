@@ -3,6 +3,38 @@ title: What's New
 ---
 ### [Subscribe to our monthly What’s New Update](https://pro.bloomberglaw.com/whats-new-opt-in/ "Subscribe to our monthly What’s New Update")
 
+## August 2020
+
+### IN FOCUS
+
+[In Focus: Schrems II](https://www.bloomberglaw.com/product/privacy/page/pds_infocus_schrems_ii) was created in response to a landmark ruling by the Court of Justice of the European Union (CJEU) regarding cross-border data transfers. The In Focus page provides a one-stop-shop for: Practical Guidance published and updated in response to the CJEU ruling; the primary source material from CJEU, EU agencies, and the Department of Commerce; Bloomberg Law Analysis and Bloomberg Law News coverage; and links to additional Schrems II and GDPR resources across Bloomberg Law. It is available on the [Privacy &amp; Data Security Practice Center](https://www.bloomberglaw.com/product/privacy/page/pds_home) and the [In Focus Resources](https://www.bloomberglaw.com/page/infocus_home) homepage.
+
+### PRACTICAL GUIDANCE
+
+#### Legal Operations
+
+Three new Legal Operations Practical Guidance topic pages – [Legal Organization Planning](https://www.bloomberglaw.com/product/BLPG/page/cp_pg_org_planning), [Outside Legal Services](https://www.bloomberglaw.com/product/BLPG/page/cp_pg_outside_legal_services), and [Legal Project Management](https://www.bloomberglaw.com/product/BLPG/page/cp_pg_project_mgmt) – contain overviews, checklists, flowcharts, and sample forms to assist practitioners in managing their department&#39;s business strategy, spend matters, outside relationships, and internal records and knowledge. The new pages are available via [In Focus: Legal Operations](https://www.bloomberglaw.com/product/corporate/cp_home/page/cp_infocus_legalops), which has been revamped so that the Practical Guidance documents are now easily accessible and organized into categories more relevant to legal professionals. The new topic pages are also accessible via the [Corporate Practical Guidance Library](https://www.bloomberglaw.com/product/corporate/cp_home/page/cp_pg_library) and [Practical Guidance](https://www.bloomberglaw.com/product/blpg/page/pg_home) homepage.
+
+#### Bankruptcy
+
+A new Practical Guidance suite, [Chapter 13 Bankruptcy](https://www.bloomberglaw.com/product/bky/bky_home/page/bky_pg_ch13_bankruptcy), guides a user through the process of planning for and filing the Chapter 13 bankruptcy petition and related documents. It provides broad subject overviews, as well as detailed annotations for filling out the schedules and forms. The annotations and Practice Tips throughout these documents are integrated with other platform tools such as **Points of Law** and **Smart Code** , and link to related Practical Guidance documents. The new Practical Guidance suite is available on the [Bankruptcy Practice Center](https://www.bloomberglaw.com/product/bky/page/bky_home) and the [Practical Guidance](https://www.bloomberglaw.com/product/blpg/page/pg_home) homepage.
+
+### TRACKERS
+
+The [Supreme Court IP Case Developments Tracker](https://www.bloomberglaw.com/product/ip/pts_home/document/XDBMH7QG000000), featured in the Practice Tools tile of both the [Patent &amp; Trade Secrets](https://www.bloomberglaw.com/product/ip/page/pts_home) and the [Trademarks &amp; Copyrights](https://www.bloomberglaw.com/product/ip/page/tc_home)Practice Centers, contains a link to the Supreme Court docket in the Amici column. This allows users to directly access all amici briefs via one link, and has the benefit of streamlining the table and allowing for real-time access to filings.
+
+### BRIEF ANALYZER
+
+Subscribers and trial users can provide their feedback on [Brief Analyzer](https://www.bloomberglaw.com/product/blaw/analyses/briefs/new) directly within the product. After running a brief analysis, a green **Help Us Improve** widget displays at the top of the center panel. After clicking this widget, a pop-up will appear with a field to enter feedback.
+
+### JUDICIAL ANALYTICS; DOCKETS
+
+Judicial Analytics, a component of the [Litigation Analytics](https://www.bloomberglaw.com/product/blaw/litigation/analytics/new) tool, is now accessible from [Bloomberg Law Dockets](https://www.bloomberglaw.com/v2_start#advanced-search/dockets_v3). This enhancement applies to **in-scope** , **federal** , **civil** dockets for the relevant judge, i.e., a civil docket where the judge is an active federal district court judge and the case type is one covered in the Litigation Analytics database (see Nature of Suit codes.)
+
+### ABA/BLOOMBERG LAW LAWYERS&#39; MANUAL ON PROFESSIONAL CONDUCT
+
+With the shift to electronic-only Practice Guides, the citation style of the [ABA/Bloomberg Law Lawyers&#39; Manual on Professional Conduct](https://www.bloomberglaw.com/product/mopc/page/mopc_home) has eliminated page references. The new citation style is: **Law. Man. Prof. Conduct \<Division\>:\<Chapter\>.\<Section\>**.
+
 ## July 2020
 
 ### BLOOMBERG LAW NEWS
